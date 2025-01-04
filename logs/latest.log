@@ -1,0 +1,13 @@
+[13:04:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:04:18] [ServerMain/ERROR]: Failed to start the minecraft server
+java.io.IOException: Incorrect function
+	at java.base/sun.nio.ch.FileDispatcherImpl.lock0(Native Method) ~[?:?]
+	at java.base/sun.nio.ch.FileDispatcherImpl.lock(FileDispatcherImpl.java:107) ~[?:?]
+	at java.base/sun.nio.ch.FileChannelImpl.tryLock(FileChannelImpl.java:1736) ~[?:?]
+	at java.base/java.nio.channels.FileChannel.tryLock(FileChannel.java:1359) ~[?:?]
+	at ayf.a(SourceFile:39) ~[server-1.21.4.jar:?]
+	at evg$c.<init>(SourceFile:374) ~[server-1.21.4.jar:?]
+	at evg.d(SourceFile:353) ~[server-1.21.4.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.4.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
