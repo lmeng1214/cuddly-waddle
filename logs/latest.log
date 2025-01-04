@@ -1,15 +1,16 @@
-[13:24:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:24:32] [ServerMain/INFO]: Loaded 1370 recipes
-[13:24:32] [ServerMain/INFO]: Loaded 1481 advancements
-[13:24:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[13:24:32] [Server thread/INFO]: Loading properties
-[13:24:32] [Server thread/INFO]: Default game type: SURVIVAL
-[13:24:32] [Server thread/INFO]: Generating keypair
-[13:24:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:24:32] [Server thread/INFO]: Using default channel type
-[13:24:32] [Server thread/INFO]: Preparing level "world"
-[13:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:24:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[13:24:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[13:24:33] [Server thread/INFO]: Time elapsed: 711 ms
-[13:24:33] [Server thread/INFO]: Done (0.930s)! For help, type "help"
+[13:28:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:28:48] [ServerMain/INFO]: Loaded 1370 recipes
+[13:28:49] [ServerMain/INFO]: Loaded 1481 advancements
+[13:28:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:28:49] [Server thread/INFO]: Loading properties
+[13:28:49] [Server thread/INFO]: Default game type: SURVIVAL
+[13:28:49] [Server thread/INFO]: Generating keypair
+[13:28:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:28:49] [Server thread/INFO]: Using default channel type
+[13:28:49] [Server thread/INFO]: Preparing level "world"
+[13:28:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:28:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:28:50] [Server thread/INFO]: Time elapsed: 779 ms
+[13:28:50] [Server thread/INFO]: Done (0.960s)! For help, type "help"
+[13:29:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
