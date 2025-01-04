@@ -1,13 +1,15 @@
-[13:04:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:04:18] [ServerMain/ERROR]: Failed to start the minecraft server
-java.io.IOException: Incorrect function
-	at java.base/sun.nio.ch.FileDispatcherImpl.lock0(Native Method) ~[?:?]
-	at java.base/sun.nio.ch.FileDispatcherImpl.lock(FileDispatcherImpl.java:107) ~[?:?]
-	at java.base/sun.nio.ch.FileChannelImpl.tryLock(FileChannelImpl.java:1736) ~[?:?]
-	at java.base/java.nio.channels.FileChannel.tryLock(FileChannel.java:1359) ~[?:?]
-	at ayf.a(SourceFile:39) ~[server-1.21.4.jar:?]
-	at evg$c.<init>(SourceFile:374) ~[server-1.21.4.jar:?]
-	at evg.d(SourceFile:353) ~[server-1.21.4.jar:?]
-	at net.minecraft.server.Main.main(SourceFile:139) ~[server-1.21.4.jar:?]
-	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[13:24:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:24:32] [ServerMain/INFO]: Loaded 1370 recipes
+[13:24:32] [ServerMain/INFO]: Loaded 1481 advancements
+[13:24:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[13:24:32] [Server thread/INFO]: Loading properties
+[13:24:32] [Server thread/INFO]: Default game type: SURVIVAL
+[13:24:32] [Server thread/INFO]: Generating keypair
+[13:24:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:24:32] [Server thread/INFO]: Using default channel type
+[13:24:32] [Server thread/INFO]: Preparing level "world"
+[13:24:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:24:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:24:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[13:24:33] [Server thread/INFO]: Time elapsed: 711 ms
+[13:24:33] [Server thread/INFO]: Done (0.930s)! For help, type "help"
