@@ -1,49 +1,257 @@
-[00:11:16] [Netty Server IO #7/ERROR]: Error sending packet clientbound/minecraft:disconnect
-io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
-	at ym.a(SourceFile:47) ~[server-1.21.4.jar:?]
-	at ym.encode(SourceFile:14) ~[server-1.21.4.jar:?]
-	at vu.a(SourceFile:26) ~[server-1.21.4.jar:?]
-	at vu.encode(SourceFile:12) ~[server-1.21.4.jar:?]
-	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:875) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:868) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at vi$2.write(SourceFile:530) ~[server-1.21.4.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:893) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:956) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:982) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:950) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:1000) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:974) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:305) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at vi.c(SourceFile:350) ~[server-1.21.4.jar:?]
-	at vi.b(SourceFile:343) ~[server-1.21.4.jar:?]
-	at vi.a(SourceFile:325) ~[server-1.21.4.jar:?]
-	at vi.a(SourceFile:319) ~[server-1.21.4.jar:?]
-	at vi.exceptionCaught(SourceFile:170) ~[server-1.21.4.jar:?]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1324) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:856) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
-	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.115.Final.jar:4.1.115.Final]
-	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
-[00:14:54] [Server thread/INFO]: AMeiKun was slain by Zombie
-[00:34:34] [Server thread/INFO]: [Zuvona_: Set own game mode to Creative Mode]
-[00:34:56] [Server thread/INFO]: [Zuvona_: Set own game mode to Survival Mode]
-[00:36:51] [Server thread/INFO]: Zuvona_ has made the advancement [Enchanter]
-[00:52:58] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[00:52:58] [Server thread/INFO]: AMeiKun left the game
-[00:53:03] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[00:53:03] [Server thread/INFO]: Zuvona_ left the game
+[12:19:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:19:32] [ServerMain/INFO]: Loaded 1370 recipes
+[12:19:32] [ServerMain/INFO]: Loaded 1481 advancements
+[12:19:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[12:19:32] [Server thread/INFO]: Loading properties
+[12:19:32] [Server thread/INFO]: Default game type: SURVIVAL
+[12:19:32] [Server thread/INFO]: Generating keypair
+[12:19:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:19:32] [Server thread/INFO]: Using default channel type
+[12:19:33] [Server thread/INFO]: Preparing level "world"
+[12:19:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:19:33] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[12:19:33] [Worker-Main-15/INFO]: Preparing spawn area: 14%
+[12:19:33] [Server thread/INFO]: Time elapsed: 541 ms
+[12:19:33] [Server thread/INFO]: Done (0.765s)! For help, type "help"
+[12:20:33] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:11:28] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[17:11:28] [Server thread/INFO]: AMeiKun[/108.208.120.244:64739] logged in with entity id 14 at (-66.52309743099558, 70.0, -836.8113301914042)
+[17:11:28] [Server thread/INFO]: AMeiKun joined the game
+[17:25:30] [Server thread/INFO]: Villager coj['Mason'/86, l='ServerLevel[world]', x=-48.41, y=67.94, z=-831.23] died, message: 'Mason was blown up by Creeper'
+[17:25:30] [Server thread/INFO]: AMeiKun was blown up by Creeper
+[17:48:53] [Server thread/INFO]: AMeiKun was shot by Skeleton
+[17:52:36] [Server thread/INFO]: Villager coj['Leatherworker'/7492, l='ServerLevel[world]', x=13.54, y=67.00, z=-865.19] died, message: 'Leatherworker was slain by Zombie'
+[18:00:41] [User Authenticator #2/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[18:00:41] [Server thread/INFO]: Zuvona_[/104.174.162.23:56812] logged in with entity id 10423 at (-54.42348115129607, 68.0, -842.2886658338845)
+[18:00:41] [Server thread/INFO]: Zuvona_ joined the game
+[18:00:46] [Server thread/INFO]: <Zuvona_> whoa
+[18:00:50] [Server thread/INFO]: <Zuvona_> looks awesome
+[18:00:50] [Server thread/INFO]: <AMeiKun> sup
+[18:01:55] [Server thread/INFO]: <AMeiKun> A creeper blew up our inventory (aka villager's home) lol
+[18:02:03] [Server thread/INFO]: <Zuvona_> ohhhh
+[18:02:06] [Server thread/INFO]: <Zuvona_> I thought you redesigned it
+[18:02:10] [Server thread/INFO]: <Zuvona_> It's easier to access now lol
+[18:02:23] [Server thread/INFO]: <AMeiKun> lmao
+[18:02:29] [Server thread/INFO]: <AMeiKun> "Redesign"
+[18:18:59] [Server thread/INFO]: <AMeiKun> Did i just hear something bad
+[18:19:11] [Server thread/INFO]: <Zuvona_> haha nah its all good
+[18:19:21] [Server thread/INFO]: <AMeiKun> ohhhh I see your farm!!
+[18:19:30] [Server thread/INFO]: <AMeiKun> nice
+[18:19:32] [Server thread/INFO]: <Zuvona_> good little starter one for now
+[18:19:36] [Server thread/INFO]: <Zuvona_> I'll make an automated one next
+[18:19:40] [Server thread/INFO]: <AMeiKun> wow
+[18:20:13] [Server thread/INFO]: <Zuvona_> say do we have any potatoes
+[18:20:24] [Server thread/INFO]: <AMeiKun> nope
+[18:20:28] [Server thread/INFO]: <AMeiKun> i don't think we have any
+[18:20:34] [Server thread/INFO]: <Zuvona_> ahh alright
+[18:20:39] [Server thread/INFO]: <Zuvona_> i shall go look for some
+[18:29:19] [Server thread/INFO]: <Zuvona_> holy shit there's an ocean temple
+[18:29:23] [Server thread/INFO]: <AMeiKun> ??
+[18:29:25] [Server thread/INFO]: <Zuvona_> 889 71 -1810
+[18:29:32] [Server thread/INFO]: <Zuvona_> we can farm so much XP
+[18:29:35] [Server thread/INFO]: <Zuvona_> that's lategame
+[18:34:06] [Server thread/INFO]: AMeiKun was shot by Skeleton
+[18:34:10] [Server thread/INFO]: <Zuvona_> noo
+[18:34:13] [Server thread/INFO]: <AMeiKun> fuck
+[18:34:39] [Server thread/INFO]: <Zuvona_> lmk if you want to skip to day, i need to move my laundry soon-ish anyways
+[18:35:28] [Server thread/INFO]: <AMeiKun> im good
+[18:35:35] [Server thread/INFO]: <AMeiKun> got my stuff back
+[18:35:40] [Server thread/INFO]: <Zuvona_> oo nice
+[18:40:10] [Server thread/INFO]: AMeiKun was slain by Zombie
+[18:40:12] [Server thread/INFO]: <Zuvona_> F
+[18:40:21] [Server thread/INFO]: <AMeiKun> All good all good
+[18:40:24] [Server thread/INFO]: <AMeiKun> I died at home
+[18:40:34] [Server thread/INFO]: <Zuvona_> ah nice
+[18:41:38] [Server thread/INFO]: Zuvona_ has made the advancement [A Seedy Place]
+[19:00:13] [Server thread/INFO]: <AMeiKun> Do we have glowstone?
+[19:00:21] [Server thread/INFO]: <Zuvona_> ah no we'll need the nether for that
+[19:00:22] [Server thread/INFO]: <AMeiKun> I remember we need to go to hell for them
+[19:00:24] [Server thread/INFO]: <Zuvona_> I can grab it
+[19:00:26] [Server thread/INFO]: <AMeiKun> Ahhh ok
+[19:00:41] [Server thread/INFO]: <AMeiKun> Hmmm
+[19:00:55] [Server thread/INFO]: <Zuvona_> you need it to keep going?
+[19:00:59] [Server thread/INFO]: <Zuvona_> i can get there pretty fast
+[19:01:08] [Server thread/INFO]: AMeiKun was blown up by Creeper
+[19:01:08] [Server thread/INFO]: <AMeiKun> wait a sc
+[19:01:11] [Server thread/INFO]: <Zuvona_> ah
+[19:01:12] [Server thread/INFO]: <Zuvona_> lmao
+[19:01:13] [Server thread/INFO]: <AMeiKun> uh oh
+[19:01:29] [Server thread/INFO]: <AMeiKun> We have some magma blocks
+[19:01:36] [Server thread/INFO]: <AMeiKun> do they work...?
+[19:01:41] [Server thread/INFO]: <Zuvona_> what's it for?
+[19:01:44] [Server thread/INFO]: <Zuvona_> oh for glowstone
+[19:01:49] [Server thread/INFO]: <Zuvona_> nah dont worry ill get some
+[19:02:01] [Server thread/INFO]: <AMeiKun> ok ok thanks!
+[19:02:13] [Server thread/INFO]: <AMeiKun> Lemme fill some creeper holes...
+[19:02:19] [Server thread/INFO]: <Zuvona_> lmfao
+[19:09:02] [Server thread/INFO]: <AMeiKun> welcome back
+[19:09:05] [Server thread/INFO]: <Zuvona_> ty ty
+[19:09:10] [Server thread/INFO]: <Zuvona_> nether time
+[19:13:31] [Server thread/INFO]: Zuvona_ has made the advancement [We Need to Go Deeper]
+[19:13:36] [Server thread/INFO]: <AMeiKun> ooohhh
+[19:14:46] [Server thread/INFO]: <Zuvona_> how many do ya need
+[19:14:55] [Server thread/INFO]: <AMeiKun> lemme check
+[19:15:09] [Server thread/INFO]: <AMeiKun> 12
+[19:15:15] [Server thread/INFO]: <Zuvona_> cool cool
+[19:15:45] [Server thread/INFO]: AMeiKun was slain by Zombie
+[19:18:17] [Server thread/INFO]: <AMeiKun> lmao thanks
+[19:18:20] [Server thread/INFO]: <Zuvona_> haha all good
+[19:18:28] [Server thread/INFO]: <AMeiKun> ohhhhhhh
+[19:18:31] [Server thread/INFO]: <AMeiKun> thanks!!!
+[19:18:34] [Server thread/INFO]: <Zuvona_> np np!
+[19:18:35] [Server thread/INFO]: <AMeiKun> we have lights now
+[19:18:39] [Server thread/INFO]: <Zuvona_> oooo
+[19:19:08] [Server thread/INFO]: <Zuvona_> alright i gotta go peel some potatoes
+[19:19:11] [Server thread/INFO]: <Zuvona_> but ill be back in an hour
+[19:19:16] [Server thread/INFO]: <AMeiKun> ok sounds good!
+[19:19:23] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[19:19:23] [Server thread/INFO]: Zuvona_ left the game
+[19:20:08] [Server thread/INFO]: AMeiKun was slain by Spider
+[19:33:27] [Server thread/INFO]: AMeiKun was doomed to fall by Skeleton
+[19:34:18] [Server thread/INFO]: AMeiKun has made the advancement [Ol' Betsy]
+[19:38:34] [Server thread/INFO]: AMeiKun was shot by Skeleton
+[19:45:30] [Server thread/INFO]: ServerSeekerV2 (/154.213.192.15:36226) lost connection: Disconnected
+[20:21:41] [User Authenticator #3/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[20:21:41] [Server thread/INFO]: Zuvona_[/104.174.162.23:59970] logged in with entity id 73887 at (-46.423595443388585, 69.0, -833.3035764925554)
+[20:21:41] [Server thread/INFO]: Zuvona_ joined the game
+[20:21:45] [Server thread/INFO]: <Zuvona_> heyo
+[20:21:48] [Server thread/INFO]: <AMeiKun> yo
+[20:21:52] [Server thread/INFO]: <Zuvona_> gonna eat while i play lol
+[20:22:03] [Server thread/INFO]: <AMeiKun> lol
+[20:22:08] [Server thread/INFO]: <AMeiKun> keyboard: im in danger
+[20:22:18] [Server thread/INFO]: <Zuvona_> haha ill be careful
+[20:22:20] [Server thread/INFO]: <Zuvona_> famous last words
+[20:22:29] [Server thread/INFO]: <AMeiKun> lmao
+[20:26:46] [Server thread/INFO]: AMeiKun has made the advancement [Take Aim]
+[20:27:02] [Server thread/INFO]: <Zuvona_> ooh nice
+[20:27:11] [Server thread/INFO]: <AMeiKun> It still exploded T.T
+[20:27:20] [Server thread/INFO]: <AMeiKun> Not on the house this time
+[20:32:06] [Server thread/INFO]: <Zuvona_> alright im back
+[20:32:11] [Server thread/INFO]: <Zuvona_> whoa house looks awesome
+[20:32:17] [Server thread/INFO]: <AMeiKun> yayy
+[20:35:40] [Server thread/INFO]: <AMeiKun> Is this a swimming pool?
+[20:35:51] [Server thread/INFO]: <Zuvona_> no just a pond haha
+[20:35:54] [Server thread/INFO]: <AMeiKun> ooo
+[20:35:58] [Server thread/INFO]: <Zuvona_> can eventually put bamboo and stuff here
+[20:36:04] [Server thread/INFO]: <AMeiKun> Ahhhh good idea
+[20:37:22] [Server thread/INFO]: <AMeiKun> I'm pretty sure there was at least one creeper hole at the pond's location
+[20:37:38] [Server thread/INFO]: <Zuvona_> lmfao
+[20:37:42] [Server thread/INFO]: <Zuvona_> its okay it was intended
+[20:37:44] [Server thread/INFO]: <Zuvona_> totally
+[20:37:46] [Server thread/INFO]: <AMeiKun> lol
+[20:45:17] [Server thread/INFO]: Zuvona_ has made the advancement [Ol' Betsy]
+[20:45:21] [Server thread/INFO]: Zuvona_ has made the advancement [Take Aim]
+[20:45:27] [Server thread/INFO]: <AMeiKun> wtf is that
+[20:45:42] [Server thread/INFO]: <Zuvona_> that spawns if you dont sleep lol
+[20:45:45] [Server thread/INFO]: <Zuvona_> lets sleep
+[20:45:46] [Server thread/INFO]: <AMeiKun> ohh
+[20:45:57] [Server thread/INFO]: <Zuvona_> fuck we need more beds rip
+[20:46:05] [Server thread/INFO]: <AMeiKun> There's one inside
+[20:46:40] [Server thread/INFO]: <AMeiKun> wow they burn
+[20:46:47] [Server thread/INFO]: <Zuvona_> yeah haha it's to encourage you to sleep
+[20:46:52] [Server thread/INFO]: <AMeiKun> lol
+[20:54:07] [Server thread/INFO]: <AMeiKun> Phew
+[20:54:16] [Server thread/INFO]: <AMeiKun> The structure part of the house if finished
+[20:54:20] [Server thread/INFO]: <Zuvona_> ooooh
+[20:54:20] [Server thread/INFO]: <AMeiKun> decoration left
+[20:54:28] [Server thread/INFO]: <Zuvona_> i gotta see
+[20:54:53] [Server thread/INFO]: Zuvona_ has made the advancement [The Parrots and the Bats]
+[20:55:01] [Server thread/INFO]: <AMeiKun> I built the house a bit too close to the cliff lol
+[20:55:09] [Server thread/INFO]: <Zuvona_> honestly i kind of dig that
+[20:55:17] [Server thread/INFO]: <Zuvona_> looks like a fancy beverly hills mansion
+[20:55:30] [Server thread/INFO]: <AMeiKun> lmao
+[20:55:45] [Server thread/INFO]: <Zuvona_> is there a fence missing here lol
+[20:55:49] [Server thread/INFO]: <AMeiKun> oh
+[20:55:52] [Server thread/INFO]: <AMeiKun> lol
+[20:55:57] [Server thread/INFO]: <Zuvona_> looks good though
+[20:56:11] [Server thread/INFO]: <Zuvona_> ooooh wow
+[20:56:29] [Server thread/INFO]: <Zuvona_> lets start moving stuff in?
+[20:56:35] [Server thread/INFO]: <Zuvona_> or not yet
+[20:56:39] [Server thread/INFO]: <AMeiKun> Hmmm
+[20:56:40] [Server thread/INFO]: <Zuvona_> decorations still i think right
+[20:56:50] [Server thread/INFO]: <AMeiKun> The video has inner decor
+[20:56:55] [Server thread/INFO]: <AMeiKun> but we don't need to follow that
+[20:57:05] [Server thread/INFO]: <Zuvona_> mmm but itll look pretty
+[20:57:11] [Server thread/INFO]: <AMeiKun> mmmm ur right
+[20:57:13] [Server thread/INFO]: <Zuvona_> im down to wait haha
+[20:57:22] [Server thread/INFO]: <Zuvona_> holy
+[20:57:24] [Server thread/INFO]: <Zuvona_> light switch is wild
+[20:57:27] [Server thread/INFO]: <AMeiKun> they have a part
+[20:57:31] [Server thread/INFO]: <AMeiKun> of the room
+[20:57:37] [Server thread/INFO]: <AMeiKun> that has a lot of storage boxes
+[20:57:45] [Server thread/INFO]: <AMeiKun> I'll make that part first so we move stuff in?
+[20:57:45] [Server thread/INFO]: <Zuvona_> oh that's going to be very nice
+[20:57:49] [Server thread/INFO]: <Zuvona_> sounds good!
+[20:57:58] [Server thread/INFO]: <Zuvona_> good stuff
+[20:59:25] [Server thread/INFO]: <Zuvona_> lets skip to day
+[20:59:30] [Server thread/INFO]: <Zuvona_> i cant trap sheep in night :(
+[20:59:37] [Server thread/INFO]: <AMeiKun> haha sure
+[20:59:42] [Server thread/INFO]: <Zuvona_> tyty
+[21:09:07] [Server thread/INFO]: <AMeiKun> I moved some stuff inside
+[21:09:13] [Server thread/INFO]: <AMeiKun> If you can't find something
+[21:09:21] [Server thread/INFO]: <Zuvona_> oooh tyty
+[21:11:01] [Server thread/INFO]: <Zuvona_> is night again
+[21:11:04] [Server thread/INFO]: <Zuvona_> one last skip?
+[21:11:08] [Server thread/INFO]: <AMeiKun> yeah sure
+[21:11:10] [Server thread/INFO]: <Zuvona_> i should have a pig by tomorrow
+[21:11:23] [Server thread/INFO]: <AMeiKun> piggy!
+[21:11:36] [Server thread/INFO]: <Zuvona_> oh damn
+[21:11:38] [Server thread/INFO]: <Zuvona_> this is a lot of storage
+[21:11:41] [Server thread/INFO]: <Zuvona_> that's awesome
+[21:18:21] [Server thread/INFO]: <AMeiKun> lmao
+[21:18:24] [Server thread/INFO]: <AMeiKun> a lot of boxes
+[21:18:29] [Server thread/INFO]: <Zuvona_> nah thats good
+[21:18:31] [Server thread/INFO]: <Zuvona_> we'll need them
+[21:19:54] [Server thread/INFO]: <AMeiKun> lol
+[21:20:03] [Server thread/INFO]: <AMeiKun> what you're looking for?
+[21:20:13] [Server thread/INFO]: <Zuvona_> ah just seeing if we had extra trapdoors
+[21:20:14] [Server thread/INFO]: <Zuvona_> all good
+[21:20:23] [Server thread/INFO]: <Zuvona_> oo
+[21:20:40] [Server thread/INFO]: <Zuvona_> do you have three more lol
+[21:20:45] [Server thread/INFO]: <AMeiKun> lol nah
+[21:20:49] [Server thread/INFO]: <AMeiKun> that's the only one
+[21:20:52] [Server thread/INFO]: <Zuvona_> aight aight all good
+[21:20:56] [Server thread/INFO]: <Zuvona_> do you have the cherry wood?
+[21:26:27] [Server thread/INFO]: <Zuvona_> bed rq? im gonna kidnap villagers next lol
+[21:26:34] [Server thread/INFO]: <AMeiKun> you're gonna what
+[21:26:38] [Server thread/INFO]: <Zuvona_> :)
+[21:26:49] [Server thread/INFO]: <AMeiKun> oAo
+[21:27:35] [Server thread/INFO]: <AMeiKun> wtf happened here
+[21:27:45] [Server thread/INFO]: <Zuvona_> thats the uh
+[21:27:48] [Server thread/INFO]: <Zuvona_> happy room
+[21:27:54] [Server thread/INFO]: <AMeiKun> huh?
+[21:28:00] [Server thread/INFO]: <Zuvona_> breeding room lol
+[21:28:08] [Server thread/INFO]: <AMeiKun> lmao
+[21:28:12] [Server thread/INFO]: <Zuvona_> engineered to pump out slaves - uh i mean villagers
+[21:28:28] [Server thread/INFO]: <AMeiKun> peek purdue engineering
+[21:28:30] [Server thread/INFO]: <Zuvona_> LOL
+[21:28:47] [Server thread/INFO]: <AMeiKun> so many beds
+[21:28:49] [Server thread/INFO]: <AMeiKun> impressive
+[21:30:07] [Server thread/INFO]: <AMeiKun> hmmm
+[21:30:22] [Server thread/INFO]: <AMeiKun> we'll need to look for bamboo soon
+[21:30:28] [Server thread/INFO]: <AMeiKun> maybe next time
+[21:30:31] [Server thread/INFO]: <Zuvona_> ah is it needed
+[21:30:36] [Server thread/INFO]: <Zuvona_> scaffolding?
+[21:30:44] [Server thread/INFO]: <AMeiKun> yeahh
+[21:30:50] [Server thread/INFO]: <Zuvona_> yeah lets do that next time
+[21:31:26] [Server thread/INFO]: <AMeiKun> I'll end here tonight
+[21:31:30] [Server thread/INFO]: <Zuvona_> sounds good sounds good
+[21:31:32] [Server thread/INFO]: <AMeiKun> work T.T
+[21:31:42] [Server thread/INFO]: <AMeiKun> See ya next time!
+[21:31:46] [Server thread/INFO]: <Zuvona_> pain :(
+[21:31:48] [Server thread/INFO]: <Zuvona_> sounds good!
+[21:31:50] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[21:31:50] [Server thread/INFO]: AMeiKun left the game
+[21:40:54] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[21:40:54] [Server thread/INFO]: Zuvona_ left the game
+[21:41:00] [Server thread/INFO]: Stopping the server
+[21:41:00] [Server thread/INFO]: Stopping server
+[21:41:00] [Server thread/INFO]: Saving players
+[21:41:00] [Server thread/INFO]: Saving worlds
+[21:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:41:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:41:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:41:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:41:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:41:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
