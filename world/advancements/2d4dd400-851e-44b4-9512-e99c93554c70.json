@@ -2720,27 +2720,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/flower_banner_pattern": {
+  "minecraft:husbandry/fishy_business": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-10 21:42:01 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_brown_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-10 19:19:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
+      "cod": "2025-01-10 19:11:08 -0800"
     },
     "done": true
   },
@@ -2750,21 +2732,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/white_bundle": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-10 19:14:08 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-10 19:14:08 -0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:tabby": "2025-01-10 19:16:30 -0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brown_bundle": {
+    "criteria": {
+      "has_brown_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 19:19:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-01-10 19:19:55 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
+  "minecraft:recipes/tools/white_bundle": {
     "criteria": {
-      "cod": "2025-01-10 19:11:08 -0800"
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
     },
     "done": true
   },
@@ -2780,27 +2816,77 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
-      "has_bone_meal": "2025-01-10 20:32:48 -0800"
+      "has_needed_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-01-10 19:19:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-01-10 19:28:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-01-10 19:28:14 -0800"
     },
     "done": true
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-01-12 21:10:01 -0800",
+      "minecraft:chicken": "2025-01-12 21:10:14 -0800",
       "minecraft:bee": "2025-01-10 20:04:37 -0800"
     },
     "done": false
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "minecraft:husbandry/breed_an_animal": {
     "criteria": {
-      "has_salmon": "2025-01-10 19:14:08 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
+      "bred": "2025-01-10 20:04:37 -0800"
     },
     "done": true
   },
@@ -2810,15 +2896,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
+  "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
-      "has_salmon": "2025-01-10 19:14:08 -0800"
+      "has_brick": "2025-01-10 20:27:29 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
+      "has_brick": "2025-01-10 20:27:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-10 20:32:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-10 20:32:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-10 20:37:46 -0800"
     },
     "done": true
   },
@@ -2831,30 +2935,6 @@
   "minecraft:recipes/decorations/pink_candle": {
     "criteria": {
       "has_pink_dye": "2025-01-10 20:42:35 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 22:20:24 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brown_bundle": {
-    "criteria": {
-      "has_brown_dye": "2025-01-10 19:19:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-01-10 19:28:14 -0800"
     },
     "done": true
   },
@@ -2876,81 +2956,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-01-10 19:19:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_candle": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_the_recipe": "2025-01-10 21:04:53 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_brown_dye": "2025-01-10 19:19:34 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_button": {
-    "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/pink_bundle": {
     "criteria": {
       "has_pink_dye": "2025-01-10 20:42:35 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-01-10 20:27:29 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-01-10 21:42:01 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_candle": {
-    "criteria": {
-      "has_brown_dye": "2025-01-10 19:19:34 -0800"
     },
     "done": true
   },
@@ -2960,45 +2968,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/bamboo_sign": {
-    "criteria": {
-      "has_planks": "2025-01-10 22:20:25 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-10 20:37:46 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2025-01-10 20:42:35 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_brown_wool": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_needed_dye": "2025-01-10 19:19:34 -0800"
+      "has_the_recipe": "2025-01-10 21:04:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-10 21:42:01 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-10 21:42:01 -0800"
     },
     "done": true
   },
@@ -3008,9 +2998,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/redstone/repeater": {
     "criteria": {
-      "has_white_dye": "2025-01-10 19:19:55 -0800"
+      "has_redstone_torch": "2025-01-10 21:59:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-01-10 22:20:24 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_button": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_sign": {
+    "criteria": {
+      "has_planks": "2025-01-10 22:20:25 -0800"
     },
     "done": true
   },
@@ -3026,39 +3064,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_redstone_torch": "2025-01-10 21:59:09 -0800"
+      "has_stone": "2025-01-12 20:59:17 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_brick": "2025-01-10 20:27:29 -0800"
+      "has_stone": "2025-01-12 20:59:17 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
-      "has_honeycomb": "2025-01-10 19:28:14 -0800"
+      "has_gravel": "2025-01-12 20:47:09 -0800"
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "bred": "2025-01-10 20:04:37 -0800"
+      "has_stone": "2025-01-12 20:59:17 -0800"
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "minecraft:tabby": "2025-01-10 19:16:30 -0800"
+      "has_stone": "2025-01-12 20:59:17 -0800"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "has_bone_meal": "2025-01-10 20:32:48 -0800"
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-12 20:59:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-12 20:59:17 -0800"
     },
     "done": true
   },
