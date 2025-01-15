@@ -1,43 +1,7 @@
-[21:38:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:38:32] [ServerMain/INFO]: Loaded 1370 recipes
-[21:38:32] [ServerMain/INFO]: Loaded 1481 advancements
-[21:38:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:38:32] [Server thread/INFO]: Loading properties
-[21:38:32] [Server thread/INFO]: Default game type: SURVIVAL
-[21:38:32] [Server thread/INFO]: Generating keypair
-[21:38:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:38:32] [Server thread/INFO]: Using default channel type
-[21:38:32] [Server thread/INFO]: Preparing level "world"
-[21:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:38:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[21:38:33] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[21:38:33] [Server thread/INFO]: Time elapsed: 642 ms
-[21:38:33] [Server thread/INFO]: Done (0.826s)! For help, type "help"
-[21:38:49] [User Authenticator #1/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[21:38:50] [Server thread/INFO]: Zuvona_[/104.174.162.23:63812] logged in with entity id 11 at (-48.35873106984919, 68.0, -832.4795455547252)
-[21:38:50] [Server thread/INFO]: Zuvona_ joined the game
-[21:38:56] [User Authenticator #2/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:38:56] [Server thread/INFO]: AMeiKun[/108.208.120.244:59042] logged in with entity id 664 at (-71.57053663640016, 70.0, -838.8113918412475)
-[21:38:56] [Server thread/INFO]: AMeiKun joined the game
-[22:37:34] [Server thread/INFO]: AMeiKun was slain by Zombie
-[22:37:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=-777} ji{x=-29, y=64, z=-776}
-[22:37:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=-777} ji{x=-29, y=64, z=-776}
-[22:37:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-6, y=62, z=-777} ji{x=-29, y=64, z=-776}
-[22:55:24] [Server thread/INFO]: Zuvona_ has made the advancement [What a Deal!]
-[22:59:16] [Server thread/INFO]: Zuvona_ was impaled on a stalagmite
-[23:03:39] [Server thread/INFO]: AMeiKun was slain by Spider
-[23:05:24] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[23:05:24] [Server thread/INFO]: AMeiKun left the game
-[23:05:24] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[23:05:24] [Server thread/INFO]: Zuvona_ left the game
-[23:05:30] [Server thread/INFO]: Stopping the server
-[23:05:30] [Server thread/INFO]: Stopping server
-[23:05:30] [Server thread/INFO]: Saving players
-[23:05:30] [Server thread/INFO]: Saving worlds
-[23:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:05:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:05:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:16:01] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[00:16:01] [Server thread/INFO]: AMeiKun left the game
+[00:16:05] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[00:16:05] [Server thread/INFO]: Zuvona_ left the game
+[00:17:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:19:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:19:14] [Server thread/INFO]:    stop<--[HERE]
