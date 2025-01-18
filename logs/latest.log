@@ -1,7 +1,106 @@
-[00:16:01] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[00:16:01] [Server thread/INFO]: AMeiKun left the game
-[00:16:05] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[00:16:05] [Server thread/INFO]: Zuvona_ left the game
-[00:17:05] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:19:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:19:14] [Server thread/INFO]:    stop<--[HERE]
+[20:01:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:01:01] [ServerMain/INFO]: Loaded 1370 recipes
+[20:01:01] [ServerMain/INFO]: Loaded 1481 advancements
+[20:01:02] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:01:02] [Server thread/INFO]: Loading properties
+[20:01:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:01:02] [Server thread/INFO]: Generating keypair
+[20:01:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:01:02] [Server thread/INFO]: Using default channel type
+[20:01:02] [Server thread/INFO]: Preparing level "world"
+[20:01:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:01:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:01:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:01:03] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[20:01:03] [Server thread/INFO]: Time elapsed: 1095 ms
+[20:01:03] [Server thread/INFO]: Done (1.270s)! For help, type "help"
+[20:02:03] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:02:19] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[20:02:20] [Server thread/INFO]: AMeiKun[/127.0.0.1:52477] logged in with entity id 9 at (-71.73290353866648, 70.0, -846.4700200191927)
+[20:02:20] [Server thread/INFO]: AMeiKun joined the game
+[20:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[20:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5507ms or 110 ticks behind
+[20:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6486ms or 129 ticks behind
+[20:07:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[20:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[20:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3644ms or 72 ticks behind
+[20:20:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4737ms or 94 ticks behind
+[20:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[20:21:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3698ms or 73 ticks behind
+[20:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[20:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[20:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17684ms or 353 ticks behind
+[20:23:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6710ms or 134 ticks behind
+[20:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2881ms or 57 ticks behind
+[20:24:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5072ms or 101 ticks behind
+[20:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[20:25:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[20:25:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3874ms or 77 ticks behind
+[20:27:00] [Server thread/INFO]: AMeiKun was shot by Skeleton
+[20:33:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[20:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20:34:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[20:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4640ms or 92 ticks behind
+[20:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4061ms or 81 ticks behind
+[20:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10742ms or 214 ticks behind
+[20:36:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6988ms or 139 ticks behind
+[20:43:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[20:43:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[20:43:27] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -6.162056140040477,0.0,-8.966477921184833
+[20:43:27] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -7.109476070560277,0.0,-10.224274002241145
+[20:43:31] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -8.605173991963284,0.0,-6.745716286874085
+[20:43:31] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -9.46826556503845,0.0,-7.422305846480185
+[20:43:31] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -10.314095271669999,0.0,-8.085363587471193
+[20:43:36] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 10.697796653563614,0.0,-1.921371897495419
+[20:43:36] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 12.262945141667615,0.0,-2.1770352445980734
+[20:43:37] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 10.297900247949087,-0.462750107672278,-0.8630531600888389
+[20:43:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7751ms or 155 ticks behind
+[20:44:03] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! -10.66024163107545,0.0,1.099061243239703
+[20:44:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5529ms or 110 ticks behind
+[20:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[20:46:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:47:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[20:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11637ms or 232 ticks behind
+[20:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[20:48:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5254ms or 105 ticks behind
+[20:49:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7582ms or 151 ticks behind
+[20:49:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3084ms or 61 ticks behind
+[20:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
+[20:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[20:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3905ms or 78 ticks behind
+[20:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[20:51:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6229ms or 124 ticks behind
+[20:51:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[20:52:26] [Server thread/INFO]: Villager coj['Villager'/18873, l='ServerLevel[world]', x=-1136.70, y=102.00, z=-1095.50] died, message: 'Villager froze to death'
+[20:53:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 10.290078408290924,0.0,1.0633630914796868
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 10.68186761596678,0.0,1.1357153895264673
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 11.072926998409343,0.0,1.2118590145098551
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 11.463261134378968,0.0,1.2916505523206752
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 11.85287930801212,0.0,1.3749384649011063
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 12.241795410812756,0.0,1.4615640060162605
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 12.630026676252783,0.0,1.551365699958751
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 13.017593591444438,0.0,1.6441796871392853
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 13.404518633002908,0.0,1.7398436831085746
+[20:53:52] [Server thread/WARN]: Spruce Boat (vehicle of AMeiKun) moved too quickly! 13.790826232008726,0.0,1.8381968694717443
+[20:54:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2635ms or 52 ticks behind
+[20:56:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[21:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2356ms or 47 ticks behind
+[21:00:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
+[21:14:28] [Server thread/INFO]: AMeiKun was slain by Zombie
+[21:25:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
+[21:53:43] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[21:53:43] [Server thread/INFO]: AMeiKun left the game
+[21:54:10] [Server thread/INFO]: Stopping server
+[21:54:10] [Server thread/INFO]: Saving players
+[21:54:10] [Server thread/INFO]: Saving worlds
+[21:54:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:54:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:54:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:54:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:54:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:54:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:54:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
