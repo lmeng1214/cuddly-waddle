@@ -1,70 +1,127 @@
-[00:00:10] [Server thread/INFO]: Naiyoudinggou was shot by Skeleton
-[00:02:08] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[00:02:08] [Server thread/INFO]: Zuvona_ left the game
-[00:02:18] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[00:02:18] [Server thread/INFO]: AMeiKun left the game
-[00:02:25] [User Authenticator #5/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[00:02:25] [Server thread/INFO]: Zuvona_[/104.174.162.23:64774] logged in with entity id 41807 at (-136.28386913242056, -37.0, -816.6999999880791)
-[00:02:25] [Server thread/INFO]: Zuvona_ joined the game
-[00:02:30] [User Authenticator #6/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[00:02:31] [Server thread/INFO]: AMeiKun[/108.208.120.244:54239] logged in with entity id 41926 at (-36.61230892086167, -4.0, -855.3000000119209)
-[00:02:31] [Server thread/INFO]: AMeiKun joined the game
-[00:03:10] [Server thread/INFO]: AMeiKun fell from a high place
-[00:03:21] [Server thread/INFO]: Naiyoudinggou lost connection: Disconnected
-[00:03:21] [Server thread/INFO]: Naiyoudinggou left the game
-[00:05:46] [Server thread/INFO]: sexy_rui has made the advancement [Best Friends Forever]
-[00:08:01] [Server thread/INFO]: AMeiKun was impaled on a stalagmite
-[00:08:04] [Server thread/INFO]: sexy_rui was slain by Zombie
-[00:10:30] [Server thread/INFO]: sexy_rui has made the advancement [Ol' Betsy]
-[00:10:48] [Server thread/INFO]: sexy_rui was slain by Zombie
-[00:12:18] [User Authenticator #7/INFO]: UUID of player Naiyoudinggou is b00cee0d-efc1-479e-94c8-a3da9aca3266
-[00:12:18] [Server thread/INFO]: Naiyoudinggou[/108.208.120.244:53861] logged in with entity id 46731 at (-73.5, 70.0, -848.5)
-[00:12:18] [Server thread/INFO]: Naiyoudinggou joined the game
-[00:23:39] [Server thread/INFO]: Naiyoudinggou has made the advancement [Getting an Upgrade]
-[00:24:48] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-24, y=63, z=-819} ji{x=-24, y=62, z=-817}
-[00:25:35] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-55, y=63, z=-782} ji{x=-24, y=63, z=-819}
-[00:26:34] [Server thread/INFO]: Naiyoudinggou has made the advancement [Stone Age]
-[00:31:09] [Server thread/INFO]: Naiyoudinggou has made the advancement [Monster Hunter]
-[00:36:11] [Server thread/INFO]: sexy_rui lost connection: Disconnected
-[00:36:11] [Server thread/INFO]: sexy_rui left the game
-[00:36:15] [Server thread/INFO]: Naiyoudinggou lost connection: Disconnected
-[00:36:15] [Server thread/INFO]: Naiyoudinggou left the game
-[00:36:25] [User Authenticator #8/INFO]: UUID of player sexy_rui is b4a90dc2-22b2-4967-81b1-df91e01dbfd8
-[00:36:25] [Server thread/INFO]: sexy_rui[/108.208.120.244:2857] logged in with entity id 55851 at (-170.30000001192093, 11.0, -970.6417718928611)
-[00:36:25] [Server thread/INFO]: sexy_rui joined the game
-[00:36:42] [User Authenticator #9/INFO]: UUID of player Naiyoudinggou is b00cee0d-efc1-479e-94c8-a3da9aca3266
-[00:36:42] [Server thread/INFO]: Naiyoudinggou[/108.208.120.244:53965] logged in with entity id 56220 at (-170.34521063315515, 11.0, -968.3000000119209)
-[00:36:42] [Server thread/INFO]: Naiyoudinggou joined the game
-[00:57:44] [Server thread/INFO]: Naiyoudinggou has made the advancement [Acquire Hardware]
-[00:59:39] [Server thread/INFO]: Naiyoudinggou has made the advancement [Isn't It Iron Pick]
-[01:00:51] [Server thread/INFO]: Naiyoudinggou has made the advancement [Suit Up]
-[01:07:44] [Server thread/INFO]: Zuvona_ has made the advancement [Cover Me with Diamonds]
-[01:14:45] [Server thread/INFO]: <sexy_rui> WWWW
-[01:17:34] [Server thread/INFO]: Naiyoudinggou has made the advancement [The Parrots and the Bats]
-[01:21:57] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[01:21:57] [Server thread/INFO]: Zuvona_ left the game
-[01:22:35] [User Authenticator #10/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[01:22:35] [Server thread/INFO]: Zuvona_[/104.174.162.23:50882] logged in with entity id 71339 at (-42.88786000210783, 63.0, -754.6999999880791)
-[01:22:35] [Server thread/INFO]: Zuvona_ joined the game
-[01:38:08] [Server thread/INFO]: Zuvona_ has made the advancement [Surge Protector]
-[01:39:08] [Server thread/INFO]: AMeiKun has made the advancement [Surge Protector]
-[01:39:08] [Server thread/INFO]: sexy_rui has made the advancement [Surge Protector]
-[01:45:46] [Server thread/INFO]: Naiyoudinggou lost connection: Disconnected
-[01:45:46] [Server thread/INFO]: Naiyoudinggou left the game
-[01:45:53] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[01:45:53] [Server thread/INFO]: AMeiKun left the game
-[01:45:53] [Server thread/INFO]: sexy_rui lost connection: Disconnected
-[01:45:53] [Server thread/INFO]: sexy_rui left the game
-[01:45:54] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[01:45:54] [Server thread/INFO]: Zuvona_ left the game
-[01:46:08] [Server thread/INFO]: Stopping the server
-[01:46:08] [Server thread/INFO]: Stopping server
-[01:46:08] [Server thread/INFO]: Saving players
-[01:46:08] [Server thread/INFO]: Saving worlds
-[01:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:46:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:46:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:11:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:11:39] [ServerMain/INFO]: Loaded 1370 recipes
+[11:11:39] [ServerMain/INFO]: Loaded 1481 advancements
+[11:11:39] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[11:11:39] [Server thread/INFO]: Loading properties
+[11:11:39] [Server thread/INFO]: Default game type: SURVIVAL
+[11:11:39] [Server thread/INFO]: Generating keypair
+[11:11:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:11:39] [Server thread/INFO]: Using default channel type
+[11:11:39] [Server thread/INFO]: Preparing level "world"
+[11:11:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:11:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:11:40] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[11:11:40] [Server thread/INFO]: Time elapsed: 822 ms
+[11:11:40] [Server thread/INFO]: Done (1.067s)! For help, type "help"
+[11:12:18] [User Authenticator #1/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[11:12:18] [Server thread/INFO]: Zuvona_[/104.174.162.23:50959] logged in with entity id 13 at (-24.90863172363099, 63.0, -775.7272267384558)
+[11:12:18] [Server thread/INFO]: Zuvona_ joined the game
+[11:21:22] [User Authenticator #2/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[11:21:22] [Server thread/INFO]: AMeiKun[/108.208.120.244:55105] logged in with entity id 3090 at (-72.51422990741179, 70.0, -839.7387122107128)
+[11:21:22] [Server thread/INFO]: AMeiKun joined the game
+[11:21:28] [Server thread/INFO]: <Zuvona_> whoa
+[11:21:30] [Server thread/INFO]: <Zuvona_> good morning
+[11:21:32] [Server thread/INFO]: <AMeiKun> sup
+[11:21:39] [Server thread/INFO]: <Zuvona_> happy early birthday haha
+[11:21:40] [Server thread/INFO]: <AMeiKun> I'll just stay on a lil bit
+[11:21:44] [Server thread/INFO]: <Zuvona_> yeah same
+[11:21:45] [Server thread/INFO]: <AMeiKun> need more coffee
+[11:21:54] [Server thread/INFO]: <Zuvona_> LMAO Im literally drinking one right now
+[11:21:57] [Server thread/INFO]: <AMeiKun> lol
+[11:25:56] [Server thread/INFO]: <AMeiKun> chop trees?
+[11:26:01] [Server thread/INFO]: <Zuvona_> yeah
+[11:27:58] [Server thread/INFO]: <AMeiKun> is it dump if i use an iron axe?
+[11:28:04] [Server thread/INFO]: <Zuvona_> oh wtf yeah]
+[11:28:10] [Server thread/INFO]: <Zuvona_> here
+[11:28:11] [Server thread/INFO]: <Zuvona_> use this
+[11:28:16] [Server thread/INFO]: <Zuvona_> dont break it though
+[11:28:22] [Server thread/INFO]: <AMeiKun> i'll try
+[11:28:47] [Server thread/INFO]: <AMeiKun> thx
+[11:28:56] [Server thread/INFO]: <Zuvona_> yeah np
+[11:29:35] [Server thread/INFO]: <AMeiKun> how do i not break it if i'm using it
+[11:29:49] [Server thread/INFO]: <Zuvona_> just before the bar goes away, stop using it - I can then fix it
+[11:29:55] [Server thread/INFO]: <AMeiKun> ohhh ok
+[11:35:16] [Server thread/INFO]: <Zuvona_> could i grab the axe real quick
+[11:35:24] [Server thread/INFO]: <Zuvona_> ty ty
+[11:35:25] [Server thread/INFO]: <Zuvona_> going to upgrade it
+[11:35:30] [Server thread/INFO]: <AMeiKun> yay
+[11:37:44] [Server thread/INFO]: <Zuvona_> any wood?
+[11:37:49] [Server thread/INFO]: <Zuvona_> those will repair the axe
+[11:37:53] [Server thread/INFO]: <AMeiKun> yup
+[11:37:56] [Server thread/INFO]: <Zuvona_> sweet
+[11:38:02] [Server thread/INFO]: <Zuvona_> ty ty
+[11:38:45] [Server thread/INFO]: <Zuvona_> lets sleep - they need to reset trades
+[11:38:50] [Server thread/INFO]: <AMeiKun> ok ok
+[11:42:29] [Server thread/INFO]: <Zuvona_> okay here you go
+[11:42:38] [Server thread/INFO]: <Zuvona_> the best axe in the game
+[11:42:49] [Server thread/INFO]: <AMeiKun> holy shit
+[11:43:01] [Server thread/INFO]: <AMeiKun> this one doesn't break?
+[11:43:10] [Server thread/INFO]: <Zuvona_> it does - but if you hold it while gaining experience, it repairs
+[11:43:16] [Server thread/INFO]: <AMeiKun> ohhhh
+[11:43:19] [Server thread/INFO]: <Zuvona_> so anything with XP - killing mobs, trading, etc
+[11:43:27] [Server thread/INFO]: <AMeiKun> nice!
+[11:43:29] [Server thread/INFO]: <AMeiKun> thx!
+[11:43:36] [Server thread/INFO]: <Zuvona_> np!
+[11:43:39] [Server thread/INFO]: <AMeiKun> i'll try to not die in lava with it
+[11:43:46] [Server thread/INFO]: <Zuvona_> oh god that would be very bad yeah LOL
+[11:44:12] [Server thread/INFO]: <AMeiKun> oh wow it chops a bit too well lol
+[11:44:15] [Server thread/INFO]: <Zuvona_> LOL
+[11:44:21] [Server thread/INFO]: <Zuvona_> it better for the best axe in the game
+[11:44:53] [Server thread/INFO]: <Zuvona_> im off to grab a ton of sand
+[11:45:05] [Server thread/INFO]: <AMeiKun> ok sounds good!
+[11:49:01] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=617, y=60, z=-653} ji{x=620, y=62, z=-654}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:16] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:50:17] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=632, y=65, z=-651} ji{x=631, y=64, z=-651}
+[11:53:29] [Server thread/INFO]: <AMeiKun> do you need wood?
+[11:53:35] [Server thread/INFO]: <Zuvona_> ah I should be okay for now
+[11:53:40] [Server thread/INFO]: <Zuvona_> i will to repair the axe though
+[11:53:45] [Server thread/INFO]: <AMeiKun> ok ok i'll put them in the box
+[11:54:04] [Server thread/INFO]: <Zuvona_> nice nice ty
+[11:54:45] [Server thread/INFO]: <Zuvona_> sleep?
+[11:54:51] [Server thread/INFO]: <Zuvona_> ill repair the axe then head out
+[11:54:52] [Server thread/INFO]: <AMeiKun> sleep
+[11:54:54] [Server thread/INFO]: <AMeiKun> ok ok
+[11:54:55] [Server thread/INFO]: <Zuvona_> my rice finished cooking lol
+[11:55:17] [Server thread/INFO]: <AMeiKun> how did you get so many sand so quick
+[11:55:24] [Server thread/INFO]: <Zuvona_> the good old torch trick
+[11:55:30] [Server thread/INFO]: <AMeiKun> ohhhhhhh
+[11:55:35] [Server thread/INFO]: <AMeiKun> i almost forgot that
+[11:55:42] [Server thread/INFO]: <Zuvona_> but then i realized my shovel was faster lmao
+[11:55:45] [Server thread/INFO]: <AMeiKun> lmao
+[11:56:29] [Server thread/INFO]: <AMeiKun> we have enough saplings to replant the amazon forest
+[11:56:35] [Server thread/INFO]: <Zuvona_> LOL
+[11:59:12] [Server thread/INFO]: <Zuvona_> nice
+[11:59:14] [Server thread/INFO]: <Zuvona_> as good as new
+[11:59:20] [Server thread/INFO]: <Zuvona_> alright imma head off
+[11:59:21] [Server thread/INFO]: <AMeiKun> nice nice
+[11:59:22] [Server thread/INFO]: <AMeiKun> same
+[11:59:23] [Server thread/INFO]: <Zuvona_> gonna eat some breakfast
+[11:59:33] [Server thread/INFO]: <AMeiKun> lol im getting second cup of coffee
+[11:59:34] [Server thread/INFO]: <Zuvona_> alrighty see ya in an hour or so
+[11:59:35] [Server thread/INFO]: <AMeiKun> see ya!
+[11:59:36] [Server thread/INFO]: <Zuvona_> LOL
+[11:59:40] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[11:59:40] [Server thread/INFO]: AMeiKun left the game
+[11:59:41] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[11:59:41] [Server thread/INFO]: Zuvona_ left the game
+[11:59:45] [Server thread/INFO]: Stopping the server
+[11:59:45] [Server thread/INFO]: Stopping server
+[11:59:45] [Server thread/INFO]: Saving players
+[11:59:45] [Server thread/INFO]: Saving worlds
+[11:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:59:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:59:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
