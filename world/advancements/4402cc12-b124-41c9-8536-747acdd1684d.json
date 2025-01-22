@@ -281,10 +281,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-04 18:06:19 -0800",
+      "minecraft:blaze": "2025-01-21 22:44:43 -0800",
       "minecraft:skeleton": "2025-01-04 16:46:31 -0800",
       "minecraft:phantom": "2025-01-05 20:45:02 -0800",
       "minecraft:zombified_piglin": "2025-01-20 13:45:52 -0800",
       "minecraft:witch": "2025-01-20 00:21:50 -0800",
+      "minecraft:wither_skeleton": "2025-01-21 22:48:24 -0800",
       "minecraft:ghast": "2025-01-20 13:44:36 -0800",
       "minecraft:cave_spider": "2025-01-19 22:04:54 -0800",
       "minecraft:piglin": "2025-01-05 19:16:24 -0800",
@@ -3732,21 +3734,33 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
-      "distract_piglin": "2025-01-20 13:48:30 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-01-20 14:04:01 -0800"
+      "has_netherite_scrap": "2025-01-20 13:33:24 -0800"
     },
     "done": true
   },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-20 13:36:16 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-20 13:43:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-20 13:43:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-01-20 13:48:30 -0800"
     },
     "done": true
   },
@@ -3774,18 +3788,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-01-20 13:50:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-20 14:01:20 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-01-20 13:48:48 -0800"
@@ -3810,39 +3812,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2025-01-20 13:49:13 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_slab": {
-    "criteria": {
-      "has_planks": "2025-01-20 14:01:20 -0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/charge_respawn_anchor": {
-    "criteria": {
-      "charge_respawn_anchor": "2025-01-20 13:54:21 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-20 13:48:48 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-20 14:01:20 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-01-20 14:04:01 -0800"
     },
     "done": true
   },
@@ -3864,21 +3836,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_planks": {
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
-      "has_logs": "2025-01-20 13:43:35 -0800"
+      "has_blackstone": "2025-01-20 13:48:48 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/warped_fence": {
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "has_planks": "2025-01-20 14:01:20 -0800"
+      "has_blackstone": "2025-01-20 13:48:48 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
-      "has_netherite_scrap": "2025-01-20 13:33:24 -0800"
+      "has_blackstone": "2025-01-20 13:48:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-01-20 13:48:48 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-20 13:49:13 -0800"
     },
     "done": true
   },
@@ -3888,15 +3872,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
+  "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
-      "has_log": "2025-01-20 13:43:35 -0800"
+      "has_nether_brick": "2025-01-20 13:50:43 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:nether/charge_respawn_anchor": {
     "criteria": {
-      "has_blackstone": "2025-01-20 13:48:48 -0800"
+      "charge_respawn_anchor": "2025-01-20 13:54:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-20 14:01:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-01-20 14:01:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-20 14:01:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-01-20 14:01:20 -0800"
     },
     "done": true
   },
@@ -3918,15 +3926,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-01-20 13:48:48 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_planks": "2025-01-20 14:01:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-01-20 14:01:20 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-01-20 14:04:01 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-01-20 14:04:01 -0800"
     },
     "done": true
   },
@@ -3936,21 +3956,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
-      "has_blackstone": "2025-01-20 13:48:48 -0800"
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_blackstone": "2025-01-20 13:48:48 -0800"
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/warped_door": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_planks": "2025-01-20 14:01:20 -0800"
+      "blaze_rod": "2025-01-21 22:45:36 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-01-21 22:44:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 22:45:36 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-01-21 22:44:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-21 22:44:17 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-21 22:45:36 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-21 22:44:15 -0800"
     },
     "done": true
   },
