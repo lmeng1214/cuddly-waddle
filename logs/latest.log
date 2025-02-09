@@ -1,126 +1,182 @@
-[20:42:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:42:47] [ServerMain/INFO]: Loaded 1370 recipes
-[20:42:47] [ServerMain/INFO]: Loaded 1481 advancements
-[20:42:47] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:42:47] [Server thread/INFO]: Loading properties
-[20:42:47] [Server thread/INFO]: Default game type: SURVIVAL
-[20:42:47] [Server thread/INFO]: Generating keypair
-[20:42:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:42:47] [Server thread/INFO]: Using default channel type
-[20:42:47] [Server thread/INFO]: Preparing level "world"
-[20:42:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:42:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:42:48] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[20:42:48] [Server thread/INFO]: Time elapsed: 783 ms
-[20:42:48] [Server thread/INFO]: Done (1.046s)! For help, type "help"
-[20:42:56] [User Authenticator #1/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[20:42:56] [Server thread/INFO]: Zuvona_[/172.249.85.74:61756] logged in with entity id 12 at (-73.69999998807907, 70.0, -845.6580725253775)
-[20:42:56] [Server thread/INFO]: Zuvona_ joined the game
-[20:48:41] [User Authenticator #2/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[20:48:42] [Server thread/INFO]: AMeiKun[/108.208.120.244:58864] logged in with entity id 2166 at (-42.441086512068665, 62.5, -746.3078643437652)
-[20:48:42] [Server thread/INFO]: AMeiKun joined the game
-[20:49:26] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[20:49:26] [Server thread/INFO]: Zuvona_ left the game
-[20:56:15] [Server thread/INFO]: AMeiKun was slain by Zombie
-[21:27:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=12, y=71, z=-738} ji{x=13, y=71, z=-738}
-[21:28:18] [User Authenticator #3/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
-[21:28:19] [Server thread/INFO]: GhostOarfish[/159.197.217.220:49512] logged in with entity id 17039 at (-71.29475035088389, 70.0, -838.6986679117632)
-[21:28:19] [Server thread/INFO]: GhostOarfish joined the game
-[21:28:24] [Server thread/INFO]: <GhostOarfish> hi
-[21:28:46] [Server thread/INFO]: <GhostOarfish> whos in game
-[21:29:35] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[21:29:35] [Server thread/INFO]: GhostOarfish left the game
-[21:31:30] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:31:30] [Server thread/INFO]: AMeiKun left the game
-[21:32:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[21:36:33] [User Authenticator #4/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[21:36:33] [Server thread/INFO]: Zuvona_[/172.249.85.74:58937] logged in with entity id 18086 at (-71.03223273555619, 71.1875, -841.6166570824128)
-[21:36:33] [Server thread/INFO]: Zuvona_ joined the game
-[21:37:26] [User Authenticator #5/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
-[21:37:27] [Server thread/INFO]: GhostOarfish[/159.197.217.220:49579] logged in with entity id 19929 at (-32.15153996753708, 66.9375, -871.8052562258296)
-[21:37:27] [Server thread/INFO]: GhostOarfish joined the game
-[21:37:31] [Server thread/INFO]: <Zuvona_> yo yo
-[21:37:38] [Server thread/INFO]: <GhostOarfish> hii
-[21:38:10] [User Authenticator #6/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:38:11] [Server thread/INFO]: AMeiKun[/108.208.120.244:59336] logged in with entity id 20191 at (62.11897884989307, 67.0, -861.2859309262017)
-[21:38:11] [Server thread/INFO]: AMeiKun joined the game
-[21:38:13] [Server thread/INFO]: <GhostOarfish> hii
-[21:38:18] [Server thread/INFO]: <AMeiKun> sup
-[21:38:34] [Server thread/INFO]: <Zuvona_> im in discord btw
-[21:38:40] [Server thread/INFO]: <GhostOarfish> ookk
-[21:38:52] [Server thread/INFO]: <AMeiKun> @ghostoarfish you need to finish your house on the mountain
-[21:38:58] [Server thread/INFO]: <AMeiKun> I'll burn it down if you don't
-[21:39:10] [Server thread/INFO]: <Zuvona_> LMAO
-[21:39:10] [Server thread/INFO]: <GhostOarfish> ok
-[21:40:32] [Server thread/INFO]: <AMeiKun> discord?
-[21:48:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-203, y=13, z=-185} ji{x=-200, y=14, z=-184}
-[21:48:03] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-203, y=13, z=-185} ji{x=-200, y=14, z=-184}
-[21:48:04] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-203, y=13, z=-185} ji{x=-200, y=14, z=-184}
-[21:59:11] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:59:11] [Server thread/INFO]: AMeiKun left the game
-[21:59:31] [User Authenticator #7/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:59:31] [Server thread/INFO]: AMeiKun[/108.208.120.244:59427] logged in with entity id 31938 at (-275.68322468676854, 146.0, -916.6741502421564)
-[21:59:31] [Server thread/INFO]: AMeiKun joined the game
-[22:09:56] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[22:09:56] [Server thread/INFO]: Zuvona_ left the game
-[22:09:57] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[22:09:57] [Server thread/INFO]: AMeiKun left the game
-[22:10:02] [User Authenticator #8/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[22:10:02] [Server thread/INFO]: Zuvona_[/172.249.85.74:60054] logged in with entity id 38268 at (-38.80636484899169, 63.0, -766.3663142710647)
-[22:10:02] [Server thread/INFO]: Zuvona_ joined the game
-[22:10:03] [User Authenticator #9/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[22:10:03] [Server thread/INFO]: AMeiKun[/108.208.120.244:59460] logged in with entity id 38641 at (-72.72528253099449, 70.0, -847.4427985655312)
-[22:10:03] [Server thread/INFO]: AMeiKun joined the game
-[22:19:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-40, y=63, z=-746} ji{x=-62, y=15, z=-228}
-[22:19:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-40, y=63, z=-746} ji{x=-62, y=15, z=-228}
-[22:19:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-40, y=63, z=-746} ji{x=-62, y=15, z=-228}
-[22:19:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-40, y=63, z=-746} ji{x=-62, y=15, z=-228}
-[22:19:19] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-40, y=63, z=-746} ji{x=-62, y=15, z=-228}
-[22:22:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-15, y=15, z=-203} ji{x=-12, y=13, z=-205}
-[22:23:40] [Server thread/INFO]: AMeiKun was blown up by Creeper
-[22:24:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=18, y=9, z=-205} ji{x=-12, y=14, z=-202}
-[22:24:29] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=18, y=9, z=-205} ji{x=-12, y=14, z=-202}
-[22:25:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=12, z=-228} ji{x=-12, y=14, z=-242}
-[22:25:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=12, z=-228} ji{x=-12, y=14, z=-242}
-[22:25:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-12, y=12, z=-228} ji{x=-12, y=14, z=-242}
-[22:27:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=42, y=14, z=-192} ji{x=38, y=13, z=-196}
-[22:27:55] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=42, y=14, z=-192} ji{x=38, y=13, z=-196}
-[22:31:06] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=56, y=12, z=-253} ji{x=55, y=12, z=-253}
-[22:35:43] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[22:35:43] [Server thread/INFO]: AMeiKun left the game
-[22:35:44] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[22:35:44] [Server thread/INFO]: Zuvona_ left the game
-[22:35:48] [User Authenticator #10/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[22:35:48] [Server thread/INFO]: Zuvona_[/172.249.85.74:61039] logged in with entity id 55466 at (-43.16154693008231, 63.0, -768.5440381687206)
-[22:35:48] [Server thread/INFO]: Zuvona_ joined the game
-[22:35:51] [User Authenticator #11/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[22:35:52] [Server thread/INFO]: AMeiKun[/108.208.120.244:59520] logged in with entity id 55872 at (8.39555040593639, 70.0, -749.0751596445908)
-[22:35:52] [Server thread/INFO]: AMeiKun joined the game
-[22:52:31] [Server thread/INFO]: <Zuvona_> .//replace wood oak
-[22:57:35] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[22:57:35] [Server thread/INFO]: AMeiKun left the game
-[22:57:38] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[22:57:38] [Server thread/INFO]: Zuvona_ left the game
-[22:57:47] [User Authenticator #12/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[22:57:47] [Server thread/INFO]: AMeiKun[/108.208.120.244:60027] logged in with entity id 67799 at (-192.58765534176064, 68.0, -1070.9408148675268)
-[22:57:47] [Server thread/INFO]: AMeiKun joined the game
-[22:57:49] [User Authenticator #13/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[22:57:49] [Server thread/INFO]: Zuvona_[/172.249.85.74:62715] logged in with entity id 68117 at (-263.84413206221666, 153.0, -902.6506359356442)
-[22:57:49] [Server thread/INFO]: Zuvona_ joined the game
-[23:08:51] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[23:08:51] [Server thread/INFO]: GhostOarfish left the game
-[23:53:20] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[23:53:20] [Server thread/INFO]: AMeiKun left the game
-[23:53:26] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[23:53:26] [Server thread/INFO]: Zuvona_ left the game
-[23:53:31] [Server thread/INFO]: Stopping the server
-[23:53:31] [Server thread/INFO]: Stopping server
-[23:53:31] [Server thread/INFO]: Saving players
-[23:53:31] [Server thread/INFO]: Saving worlds
-[23:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:53:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:53:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:41:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:41:31] [ServerMain/INFO]: Loaded 1370 recipes
+[22:41:31] [ServerMain/INFO]: Loaded 1481 advancements
+[22:41:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:41:32] [Server thread/INFO]: Loading properties
+[22:41:32] [Server thread/INFO]: Default game type: SURVIVAL
+[22:41:32] [Server thread/INFO]: Generating keypair
+[22:41:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:41:32] [Server thread/INFO]: Using default channel type
+[22:41:32] [Server thread/INFO]: Preparing level "world"
+[22:41:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:41:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:41:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[22:41:34] [Worker-Main-5/INFO]: Preparing spawn area: 2%
+[22:41:34] [Server thread/INFO]: Time elapsed: 1042 ms
+[22:41:34] [Server thread/INFO]: Done (1.200s)! For help, type "help"
+[22:41:44] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[22:41:46] [Server thread/INFO]: AMeiKun[/127.0.0.1:51916] logged in with entity id 12 at (-59.06839480767873, 67.0, -847.8136706860863)
+[22:41:46] [Server thread/INFO]: AMeiKun joined the game
+[22:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2431ms or 48 ticks behind
+[22:42:16] [User Authenticator #2/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
+[22:42:17] [Server thread/INFO]: GhostOarfish[/100.68.92.13:50585] logged in with entity id 390 at (-57.0433686648975, 70.1875, -833.5129961330454)
+[22:42:17] [Server thread/INFO]: GhostOarfish joined the game
+[22:42:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18519ms or 370 ticks behind
+[22:42:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12317ms or 246 ticks behind
+[22:43:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10273ms or 205 ticks behind
+[22:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7028ms or 140 ticks behind
+[22:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7954ms or 159 ticks behind
+[22:44:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10102ms or 202 ticks behind
+[22:44:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10327ms or 206 ticks behind
+[22:45:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7340ms or 146 ticks behind
+[22:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11158ms or 223 ticks behind
+[22:46:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7946ms or 158 ticks behind
+[22:46:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6430ms or 128 ticks behind
+[22:46:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7048ms or 140 ticks behind
+[22:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
+[22:47:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
+[22:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5204ms or 104 ticks behind
+[22:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6607ms or 132 ticks behind
+[22:48:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5548ms or 110 ticks behind
+[22:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4355ms or 87 ticks behind
+[22:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5858ms or 117 ticks behind
+[22:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3839ms or 76 ticks behind
+[22:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2209ms or 44 ticks behind
+[22:50:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6525ms or 130 ticks behind
+[22:50:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4208ms or 84 ticks behind
+[22:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2390ms or 47 ticks behind
+[22:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[22:51:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[22:51:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3167ms or 63 ticks behind
+[22:51:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3914ms or 78 ticks behind
+[22:52:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2197ms or 43 ticks behind
+[22:52:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[22:52:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[22:53:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[22:53:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2544ms or 50 ticks behind
+[22:53:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7225ms or 144 ticks behind
+[22:54:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5576ms or 111 ticks behind
+[22:54:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3688ms or 73 ticks behind
+[22:54:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7949ms or 158 ticks behind
+[22:55:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12204ms or 244 ticks behind
+[22:55:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8774ms or 175 ticks behind
+[22:56:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15895ms or 317 ticks behind
+[22:56:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6825ms or 136 ticks behind
+[22:56:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6716ms or 134 ticks behind
+[22:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[22:57:40] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[22:57:40] [Server thread/INFO]: AMeiKun left the game
+[22:57:48] [User Authenticator #3/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[22:57:49] [Server thread/INFO]: AMeiKun[/127.0.0.1:51967] logged in with entity id 5360 at (-271.1776706060564, 152.0, -902.7822621481193)
+[22:57:50] [Server thread/INFO]: AMeiKun joined the game
+[22:57:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[22:58:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5646ms or 112 ticks behind
+[23:02:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3910ms or 78 ticks behind
+[23:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5458ms or 109 ticks behind
+[23:09:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23:10:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5696ms or 113 ticks behind
+[23:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[23:10:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[23:10:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3944ms or 78 ticks behind
+[23:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4991ms or 99 ticks behind
+[23:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8942ms or 178 ticks behind
+[23:12:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5032ms or 100 ticks behind
+[23:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8289ms or 165 ticks behind
+[23:12:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7641ms or 152 ticks behind
+[23:13:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6495ms or 129 ticks behind
+[23:13:10] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[23:13:10] [Server thread/INFO]: AMeiKun left the game
+[23:13:24] [User Authenticator #4/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[23:13:25] [Server thread/INFO]: AMeiKun[/127.0.0.1:52018] logged in with entity id 10130 at (18.830590768622326, 69.0, -885.3562737454258)
+[23:13:25] [Server thread/INFO]: AMeiKun joined the game
+[23:13:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23:13:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9977ms or 199 ticks behind
+[23:14:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8489ms or 169 ticks behind
+[23:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7563ms or 151 ticks behind
+[23:15:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6618ms or 132 ticks behind
+[23:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8453ms or 169 ticks behind
+[23:15:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7883ms or 157 ticks behind
+[23:16:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
+[23:16:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6358ms or 127 ticks behind
+[23:16:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4604ms or 92 ticks behind
+[23:17:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5820ms or 116 ticks behind
+[23:17:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6330ms or 126 ticks behind
+[23:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8348ms or 166 ticks behind
+[23:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5948ms or 118 ticks behind
+[23:18:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5292ms or 105 ticks behind
+[23:18:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6620ms or 132 ticks behind
+[23:19:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
+[23:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7880ms or 157 ticks behind
+[23:20:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8434ms or 168 ticks behind
+[23:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6252ms or 125 ticks behind
+[23:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5455ms or 109 ticks behind
+[23:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5691ms or 113 ticks behind
+[23:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23:25:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6015ms or 120 ticks behind
+[23:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5225ms or 104 ticks behind
+[23:25:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3867ms or 77 ticks behind
+[23:26:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6423ms or 128 ticks behind
+[23:26:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5834ms or 116 ticks behind
+[23:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6278ms or 125 ticks behind
+[23:27:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5651ms or 113 ticks behind
+[23:27:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6097ms or 121 ticks behind
+[23:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5476ms or 109 ticks behind
+[23:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5882ms or 117 ticks behind
+[23:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6025ms or 120 ticks behind
+[23:29:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5135ms or 102 ticks behind
+[23:29:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9692ms or 193 ticks behind
+[23:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7462ms or 149 ticks behind
+[23:30:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6653ms or 133 ticks behind
+[23:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6249ms or 124 ticks behind
+[23:30:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6015ms or 120 ticks behind
+[23:31:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6036ms or 120 ticks behind
+[23:31:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8563ms or 171 ticks behind
+[23:32:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11140ms or 222 ticks behind
+[23:32:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11228ms or 224 ticks behind
+[23:32:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9406ms or 188 ticks behind
+[23:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9174ms or 183 ticks behind
+[23:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8538ms or 170 ticks behind
+[23:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8002ms or 160 ticks behind
+[23:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7377ms or 147 ticks behind
+[23:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5589ms or 111 ticks behind
+[23:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6862ms or 137 ticks behind
+[23:35:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6334ms or 126 ticks behind
+[23:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6812ms or 136 ticks behind
+[23:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6485ms or 129 ticks behind
+[23:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7097ms or 141 ticks behind
+[23:37:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5770ms or 115 ticks behind
+[23:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7344ms or 146 ticks behind
+[23:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5617ms or 112 ticks behind
+[23:38:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5795ms or 115 ticks behind
+[23:38:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9555ms or 191 ticks behind
+[23:38:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8939ms or 178 ticks behind
+[23:39:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8030ms or 160 ticks behind
+[23:39:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9347ms or 186 ticks behind
+[23:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8284ms or 165 ticks behind
+[23:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9018ms or 180 ticks behind
+[23:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7666ms or 153 ticks behind
+[23:41:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9013ms or 180 ticks behind
+[23:41:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7126ms or 142 ticks behind
+[23:41:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7902ms or 158 ticks behind
+[23:42:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16959ms or 339 ticks behind
+[23:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7496ms or 149 ticks behind
+[23:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5552ms or 111 ticks behind
+[23:43:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6394ms or 127 ticks behind
+[23:43:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8118ms or 162 ticks behind
+[23:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5533ms or 110 ticks behind
+[23:44:30] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
+[23:44:30] [Server thread/INFO]: GhostOarfish left the game
+[23:44:34] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[23:44:34] [Server thread/INFO]: AMeiKun left the game
+[23:45:02] [Server thread/INFO]: Stopping server
+[23:45:02] [Server thread/INFO]: Saving players
+[23:45:02] [Server thread/INFO]: Saving worlds
+[23:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
