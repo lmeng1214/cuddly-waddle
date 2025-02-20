@@ -1,56 +1,38 @@
-[21:06:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:06:26] [ServerMain/INFO]: Loaded 1370 recipes
-[21:06:26] [ServerMain/INFO]: Loaded 1481 advancements
-[21:06:26] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[21:06:26] [Server thread/INFO]: Loading properties
-[21:06:26] [Server thread/INFO]: Default game type: SURVIVAL
-[21:06:26] [Server thread/INFO]: Generating keypair
-[21:06:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:06:27] [Server thread/INFO]: Using default channel type
-[21:06:27] [Server thread/INFO]: Preparing level "world"
-[21:06:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:06:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:06:27] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[21:06:28] [Server thread/INFO]: Time elapsed: 719 ms
-[21:06:28] [Server thread/INFO]: Done (0.977s)! For help, type "help"
-[21:06:36] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:06:36] [Server thread/INFO]: AMeiKun[/108.208.120.244:58764] logged in with entity id 12 at (-176.93373525583038, -28.0, -1165.9560951052213)
-[21:06:36] [Server thread/INFO]: AMeiKun joined the game
-[21:06:40] [User Authenticator #2/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
-[21:06:40] [Server thread/INFO]: Zuvona_[/172.249.85.74:60593] logged in with entity id 1220 at (-72.62255714454479, 70.0, -842.2473332050668)
-[21:06:40] [Server thread/INFO]: Zuvona_ joined the game
-[21:06:42] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:06:42] [Server thread/INFO]: AMeiKun left the game
-[21:06:45] [User Authenticator #3/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:06:45] [Server thread/INFO]: AMeiKun[/108.208.120.244:58770] logged in with entity id 1550 at (-176.93373525583038, -28.0, -1165.9560951052213)
-[21:06:45] [Server thread/INFO]: AMeiKun joined the game
-[21:06:47] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:06:47] [Server thread/INFO]: AMeiKun left the game
-[21:07:04] [User Authenticator #4/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[21:07:04] [Server thread/INFO]: AMeiKun[/108.208.120.244:58778] logged in with entity id 2093 at (-176.93373525583038, -28.0, -1165.9560951052213)
-[21:07:04] [Server thread/INFO]: AMeiKun joined the game
-[21:07:15] [User Authenticator #5/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
-[21:07:16] [Server thread/INFO]: GhostOarfish[/159.197.217.220:50634] logged in with entity id 2699 at (-165.55066152371353, -28.0, -1166.3375129393467)
-[21:07:16] [Server thread/INFO]: GhostOarfish joined the game
-[21:15:04] [Server thread/INFO]: GhostOarfish was shot by Skeleton
-[21:19:39] [Server thread/INFO]: GhostOarfish was blown up by Creeper
-[21:30:36] [Server thread/INFO]: GhostOarfish has made the advancement [Acquire Hardware]
-[21:34:42] [Server thread/INFO]: GhostOarfish was shot by Skeleton
-[21:42:08] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[21:42:08] [Server thread/INFO]: Zuvona_ left the game
-[21:46:07] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:46:07] [Server thread/INFO]: AMeiKun left the game
-[21:50:47] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[21:50:47] [Server thread/INFO]: GhostOarfish left the game
-[21:51:47] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[22:02:22] [Server thread/INFO]: Stopping the server
-[22:02:22] [Server thread/INFO]: Stopping server
-[22:02:22] [Server thread/INFO]: Saving players
-[22:02:22] [Server thread/INFO]: Saving worlds
-[22:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:02:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:02:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:26:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:26:59] [ServerMain/INFO]: Loaded 1370 recipes
+[21:26:59] [ServerMain/INFO]: Loaded 1481 advancements
+[21:27:00] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:27:00] [Server thread/INFO]: Loading properties
+[21:27:00] [Server thread/INFO]: Default game type: SURVIVAL
+[21:27:00] [Server thread/INFO]: Generating keypair
+[21:27:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:27:00] [Server thread/INFO]: Using default channel type
+[21:27:00] [Server thread/INFO]: Preparing level "world"
+[21:27:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:27:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:27:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[21:27:01] [Server thread/INFO]: Time elapsed: 951 ms
+[21:27:01] [Server thread/INFO]: Done (1.098s)! For help, type "help"
+[21:27:34] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[21:27:36] [Server thread/INFO]: AMeiKun[/127.0.0.1:52781] logged in with entity id 12 at (-221.39901312329758, -26.125, -1167.497056573381)
+[21:27:36] [Server thread/INFO]: AMeiKun joined the game
+[21:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2103ms or 42 ticks behind
+[21:27:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6122ms or 122 ticks behind
+[21:37:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[22:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[22:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:35:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[22:40:32] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[22:40:32] [Server thread/INFO]: AMeiKun left the game
+[22:41:32] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:56:10] [Server thread/INFO]: Stopping server
+[22:56:10] [Server thread/INFO]: Saving players
+[22:56:10] [Server thread/INFO]: Saving worlds
+[22:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:56:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:56:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
