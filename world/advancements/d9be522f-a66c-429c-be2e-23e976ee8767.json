@@ -7,15 +7,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-01-31 19:05:41 -0800",
+      "minecraft:taiga": "2025-02-22 23:30:42 -0800",
+      "minecraft:river": "2025-01-31 19:17:38 -0800",
+      "minecraft:snowy_plains": "2025-02-09 19:41:21 -0800",
+      "minecraft:lush_caves": "2025-02-22 23:33:44 -0800",
+      "minecraft:dripstone_caves": "2025-01-31 19:46:15 -0800",
+      "minecraft:snowy_taiga": "2025-02-22 23:30:50 -0800",
       "minecraft:ice_spikes": "2025-02-09 19:41:19 -0800",
       "minecraft:frozen_river": "2025-02-09 19:42:54 -0800",
-      "minecraft:forest": "2025-01-31 19:05:41 -0800",
       "minecraft:cherry_grove": "2025-01-31 19:46:09 -0800",
-      "minecraft:river": "2025-01-31 19:17:38 -0800",
+      "minecraft:sunflower_plains": "2025-02-22 23:57:55 -0800",
+      "minecraft:grove": "2025-02-22 23:01:44 -0800",
       "minecraft:meadow": "2025-01-31 19:18:39 -0800",
       "minecraft:birch_forest": "2025-01-31 19:06:23 -0800",
-      "minecraft:snowy_plains": "2025-02-09 19:41:21 -0800",
-      "minecraft:dripstone_caves": "2025-01-31 19:46:15 -0800",
       "minecraft:plains": "2025-01-31 19:20:26 -0800"
     },
     "done": false
@@ -202,8 +207,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "spider_eye": "2025-02-22 23:31:43 -0800",
       "rotten_flesh": "2025-02-01 23:37:35 -0800",
-      "baked_potato": "2025-01-31 19:15:38 -0800"
+      "glow_berries": "2025-02-23 00:25:24 -0800",
+      "baked_potato": "2025-01-31 19:15:38 -0800",
+      "tropical_fish": "2025-02-23 00:26:08 -0800"
     },
     "done": false
   },
@@ -2564,63 +2572,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-02-22 00:04:32 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-02-22 00:13:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-02-21 23:58:47 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/copper_door": {
     "criteria": {
       "has_copper_ingot": "2025-02-21 23:51:43 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-22 00:13:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2025-02-21 23:55:51 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_slab": {
-    "criteria": {
-      "has_planks": "2025-02-22 00:13:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-02-21 23:58:59 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-02-22 00:10:31 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-02-22 00:04:32 -0800"
     },
     "done": true
   },
@@ -2630,15 +2584,87 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
-      "enchanted_item": "2025-02-22 00:06:26 -0800"
+      "has_copper_ingot": "2025-02-21 23:51:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-21 23:55:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-02-21 23:58:47 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-02-21 23:58:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-22 00:04:32 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-22 00:04:32 -0800"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-02-22 00:04:32 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-22 00:04:32 -0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-22 00:06:26 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-22 00:10:31 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-22 00:12:13 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-22 00:13:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-22 00:13:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_slab": {
+    "criteria": {
+      "has_planks": "2025-02-22 00:13:02 -0800"
     },
     "done": true
   },
@@ -2654,33 +2680,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-02-22 00:04:32 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_stairs": {
     "criteria": {
       "has_planks": "2025-02-22 00:13:02 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/copper_trapdoor": {
-    "criteria": {
-      "has_copper_ingot": "2025-02-21 23:51:43 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-02-22 00:13:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-02-22 00:12:13 -0800"
     },
     "done": true
   },
@@ -2693,6 +2701,144 @@
   "minecraft:recipes/decorations/bamboo_fence": {
     "criteria": {
       "has_planks": "2025-02-22 00:13:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-22 21:04:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-22 21:04:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-22 21:04:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-22 21:04:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-22 21:04:58 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-22 22:37:14 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-22 23:33:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-23 00:07:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-22 23:33:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-22 22:37:16 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-23 00:44:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 00:22:05 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-22 23:19:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 23:37:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-23 00:22:05 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-22 23:19:51 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-22 23:33:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-22 22:36:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-22 23:33:03 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-22 22:37:16 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 23:37:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-02-22 23:37:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-23 00:07:53 -0800"
     },
     "done": true
   },
