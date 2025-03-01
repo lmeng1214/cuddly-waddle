@@ -1,34 +1,33 @@
-[19:09:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:09:47] [ServerMain/INFO]: Loaded 1370 recipes
-[19:09:47] [ServerMain/INFO]: Loaded 1481 advancements
-[19:09:48] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:09:48] [Server thread/INFO]: Loading properties
-[19:09:48] [Server thread/INFO]: Default game type: SURVIVAL
-[19:09:48] [Server thread/INFO]: Generating keypair
-[19:09:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:09:48] [Server thread/INFO]: Using default channel type
-[19:09:48] [Server thread/INFO]: Preparing level "world"
-[19:09:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:09:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:09:49] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[19:09:49] [Server thread/INFO]: Time elapsed: 966 ms
-[19:09:49] [Server thread/INFO]: Done (1.133s)! For help, type "help"
-[19:10:07] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[19:10:09] [Server thread/INFO]: AMeiKun[/127.0.0.1:63882] logged in with entity id 11 at (-448.71672997267206, -24.0, -1679.7282601048805)
-[19:10:09] [Server thread/INFO]: AMeiKun joined the game
-[19:10:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
-[19:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7623ms or 152 ticks behind
-[19:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[20:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
-[20:45:16] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[20:45:16] [Server thread/INFO]: AMeiKun left the game
-[20:45:25] [Server thread/INFO]: Stopping server
-[20:45:25] [Server thread/INFO]: Saving players
-[20:45:25] [Server thread/INFO]: Saving worlds
-[20:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:45:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:45:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:02:27] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
+[00:02:38] [Server thread/INFO]: AMeiKun was slain by Wither Skeleton
+[00:05:35] [Server thread/INFO]: GhostOarfish withered away
+[00:09:16] [Server thread/INFO]: Zuvona_ has made the advancement [Spooky Scary Skeleton]
+[00:09:31] [Server thread/INFO]: AMeiKun has made the advancement [Spooky Scary Skeleton]
+[00:10:28] [Server thread/INFO]: GhostOarfish tried to swim in lava
+[00:10:28] [Server thread/INFO]: AMeiKun was doomed to fall
+[00:18:22] [Server thread/INFO]: GhostOarfish was burned to a crisp while fighting Blaze
+[00:25:28] [Server thread/INFO]: AMeiKun was slain by Zombified Piglin
+[00:26:38] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=226, y=64, z=-186} ji{x=226, y=62, z=-187}
+[00:27:14] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
+[00:33:13] [Server thread/INFO]: GhostOarfish was doomed to fall by Zombified Piglin
+[00:35:09] [Server thread/INFO]: GhostOarfish withered away
+[00:35:46] [Server thread/INFO]: AMeiKun withered away while fighting Wither Skeleton
+[00:37:01] [Server thread/INFO]: GhostOarfish was slain by Zombified Piglin
+[00:39:14] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
+[00:39:59] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
+[00:39:59] [Server thread/INFO]: GhostOarfish left the game
+[00:47:22] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[00:47:22] [Server thread/INFO]: AMeiKun left the game
+[00:47:22] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[00:47:22] [Server thread/INFO]: Zuvona_ left the game
+[00:47:29] [Server thread/INFO]: Stopping the server
+[00:47:29] [Server thread/INFO]: Stopping server
+[00:47:29] [Server thread/INFO]: Saving players
+[00:47:29] [Server thread/INFO]: Saving worlds
+[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
