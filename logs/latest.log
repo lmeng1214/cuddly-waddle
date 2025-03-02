@@ -1,33 +1,45 @@
-[00:02:27] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
-[00:02:38] [Server thread/INFO]: AMeiKun was slain by Wither Skeleton
-[00:05:35] [Server thread/INFO]: GhostOarfish withered away
-[00:09:16] [Server thread/INFO]: Zuvona_ has made the advancement [Spooky Scary Skeleton]
-[00:09:31] [Server thread/INFO]: AMeiKun has made the advancement [Spooky Scary Skeleton]
-[00:10:28] [Server thread/INFO]: GhostOarfish tried to swim in lava
-[00:10:28] [Server thread/INFO]: AMeiKun was doomed to fall
-[00:18:22] [Server thread/INFO]: GhostOarfish was burned to a crisp while fighting Blaze
-[00:25:28] [Server thread/INFO]: AMeiKun was slain by Zombified Piglin
-[00:26:38] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=226, y=64, z=-186} ji{x=226, y=62, z=-187}
-[00:27:14] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
-[00:33:13] [Server thread/INFO]: GhostOarfish was doomed to fall by Zombified Piglin
-[00:35:09] [Server thread/INFO]: GhostOarfish withered away
-[00:35:46] [Server thread/INFO]: AMeiKun withered away while fighting Wither Skeleton
-[00:37:01] [Server thread/INFO]: GhostOarfish was slain by Zombified Piglin
-[00:39:14] [Server thread/INFO]: GhostOarfish was slain by Wither Skeleton
-[00:39:59] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[00:39:59] [Server thread/INFO]: GhostOarfish left the game
-[00:47:22] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[00:47:22] [Server thread/INFO]: AMeiKun left the game
-[00:47:22] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[00:47:22] [Server thread/INFO]: Zuvona_ left the game
-[00:47:29] [Server thread/INFO]: Stopping the server
-[00:47:29] [Server thread/INFO]: Stopping server
-[00:47:29] [Server thread/INFO]: Saving players
-[00:47:29] [Server thread/INFO]: Saving worlds
-[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:47:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:47:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:08:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=176, y=71, z=-152} ji{x=178, y=70, z=-152}
+[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
+[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
+[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
+[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
+[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
+[00:23:18] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[00:23:18] [Server thread/INFO]: AMeiKun left the game
+[00:23:29] [Server thread/INFO]: AMeiKun (/108.208.120.244:52099) lost connection: Disconnected
+[00:23:32] [Server thread/INFO]: AMeiKun (/108.208.120.244:52101) lost connection: Disconnected
+[00:23:40] [Server thread/INFO]: AMeiKun (/108.208.120.244:52106) lost connection: Disconnected
+[00:24:22] [User Authenticator #6/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[00:24:22] [Server thread/INFO]: AMeiKun[/108.208.120.244:52178] logged in with entity id 89882 at (-306.5, 140.65, -841.5448967878302)
+[00:24:22] [Server thread/INFO]: AMeiKun joined the game
+[00:41:25] [Server thread/INFO]: Villager coj['Farmer'/67855, l='ServerLevel[world]', x=-93.52, y=64.00, z=-784.37] died, message: 'Farmer hit the ground too hard'
+[00:50:45] [Server thread/INFO]: GhostOarfish was slain by Iron Golem
+[01:05:11] [Server thread/INFO]: GhostOarfish was slain by Iron Golem
+[01:13:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-60, y=63, z=-799} ji{x=-93, y=65, z=-798}
+[01:13:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-60, y=63, z=-799} ji{x=-93, y=65, z=-798}
+[01:16:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-785} ji{x=-93, y=71, z=-786}
+[01:16:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-785} ji{x=-93, y=71, z=-786}
+[01:22:44] [Server thread/INFO]: Villager coj['Farmer'/113109, l='ServerLevel[world]', x=-97.85, y=64.00, z=-772.71] died, message: 'Farmer hit the ground too hard'
+[01:22:45] [Server thread/INFO]: Villager coj['Leatherworker'/120418, l='ServerLevel[world]', x=-7.69, y=62.00, z=-108.70] died, message: 'Leatherworker hit the ground too hard'
+[01:23:44] [Server thread/INFO]: [Zuvona_: Set the time to 13000]
+[01:40:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-92, y=75, z=-769} ji{x=-91, y=72, z=-766}
+[01:40:14] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=69, z=-765} ji{x=-93, y=68, z=-764}
+[01:42:23] [Server thread/INFO]: Villager coj['Villager'/122057, l='ServerLevel[world]', x=-92.30, y=73.56, z=-768.05] died, message: 'Villager was slain by Zuvona_'
+[01:43:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-764} ji{x=-93, y=70, z=-763}
+[01:44:45] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[01:44:45] [Server thread/INFO]: AMeiKun left the game
+[01:44:47] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[01:44:47] [Server thread/INFO]: Zuvona_ left the game
+[01:45:12] [Server thread/INFO]: Stopping the server
+[01:45:12] [Server thread/INFO]: Stopping server
+[01:45:12] [Server thread/INFO]: Saving players
+[01:45:12] [Server thread/INFO]: GhostOarfish lost connection: Server closed
+[01:45:12] [Server thread/INFO]: GhostOarfish left the game
+[01:45:12] [Server thread/INFO]: Saving worlds
+[01:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:45:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:45:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -306,6 +306,7 @@
       "minecraft:zombie": "2025-01-04 16:52:32 -0800",
       "minecraft:creeper": "2025-01-04 17:05:33 -0800",
       "minecraft:drowned": "2025-01-14 21:56:37 -0800",
+      "minecraft:wither": "2025-03-01 22:27:28 -0800",
       "minecraft:zombie_villager": "2025-01-04 18:30:44 -0800",
       "minecraft:slime": "2025-01-20 00:33:52 -0800"
     },
@@ -525,6 +526,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-04 16:57:11 -0800",
       "bread": "2025-01-04 17:04:47 -0800",
+      "golden_apple": "2025-03-01 22:27:00 -0800",
       "cooked_rabbit": "2025-02-23 00:40:20 -0800",
       "cooked_chicken": "2025-01-04 16:51:24 -0800",
       "rotten_flesh": "2025-01-04 18:58:09 -0800",
@@ -4563,12 +4565,6 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-03-01 00:09:16 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2025-02-28 21:31:18 -0800"
@@ -4587,9 +4583,117 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-01 00:09:16 -0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-01 00:09:16 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-01 22:03:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-01 22:39:57 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-03-01 22:35:09 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-01 22:48:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-03-01 22:48:04 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/blue_bundle": {
+    "criteria": {
+      "has_blue_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-03-01 22:49:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-01 22:39:52 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-03-01 22:51:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-01 22:25:29 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-01 22:03:44 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-03-01 22:27:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-03-01 22:49:21 -0800"
     },
     "done": true
   },
