@@ -1,45 +1,37 @@
-[00:08:15] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=176, y=71, z=-152} ji{x=178, y=70, z=-152}
-[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
-[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
-[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
-[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
-[00:11:41] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=236, y=64, z=-128} ji{x=237, y=66, z=-128}
-[00:23:18] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[00:23:18] [Server thread/INFO]: AMeiKun left the game
-[00:23:29] [Server thread/INFO]: AMeiKun (/108.208.120.244:52099) lost connection: Disconnected
-[00:23:32] [Server thread/INFO]: AMeiKun (/108.208.120.244:52101) lost connection: Disconnected
-[00:23:40] [Server thread/INFO]: AMeiKun (/108.208.120.244:52106) lost connection: Disconnected
-[00:24:22] [User Authenticator #6/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[00:24:22] [Server thread/INFO]: AMeiKun[/108.208.120.244:52178] logged in with entity id 89882 at (-306.5, 140.65, -841.5448967878302)
-[00:24:22] [Server thread/INFO]: AMeiKun joined the game
-[00:41:25] [Server thread/INFO]: Villager coj['Farmer'/67855, l='ServerLevel[world]', x=-93.52, y=64.00, z=-784.37] died, message: 'Farmer hit the ground too hard'
-[00:50:45] [Server thread/INFO]: GhostOarfish was slain by Iron Golem
-[01:05:11] [Server thread/INFO]: GhostOarfish was slain by Iron Golem
-[01:13:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-60, y=63, z=-799} ji{x=-93, y=65, z=-798}
-[01:13:36] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-60, y=63, z=-799} ji{x=-93, y=65, z=-798}
-[01:16:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-785} ji{x=-93, y=71, z=-786}
-[01:16:58] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-785} ji{x=-93, y=71, z=-786}
-[01:22:44] [Server thread/INFO]: Villager coj['Farmer'/113109, l='ServerLevel[world]', x=-97.85, y=64.00, z=-772.71] died, message: 'Farmer hit the ground too hard'
-[01:22:45] [Server thread/INFO]: Villager coj['Leatherworker'/120418, l='ServerLevel[world]', x=-7.69, y=62.00, z=-108.70] died, message: 'Leatherworker hit the ground too hard'
-[01:23:44] [Server thread/INFO]: [Zuvona_: Set the time to 13000]
-[01:40:11] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-92, y=75, z=-769} ji{x=-91, y=72, z=-766}
-[01:40:14] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=69, z=-765} ji{x=-93, y=68, z=-764}
-[01:42:23] [Server thread/INFO]: Villager coj['Villager'/122057, l='ServerLevel[world]', x=-92.30, y=73.56, z=-768.05] died, message: 'Villager was slain by Zuvona_'
-[01:43:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-93, y=71, z=-764} ji{x=-93, y=70, z=-763}
-[01:44:45] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[01:44:45] [Server thread/INFO]: AMeiKun left the game
-[01:44:47] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
-[01:44:47] [Server thread/INFO]: Zuvona_ left the game
-[01:45:12] [Server thread/INFO]: Stopping the server
-[01:45:12] [Server thread/INFO]: Stopping server
-[01:45:12] [Server thread/INFO]: Saving players
-[01:45:12] [Server thread/INFO]: GhostOarfish lost connection: Server closed
-[01:45:12] [Server thread/INFO]: GhostOarfish left the game
-[01:45:12] [Server thread/INFO]: Saving worlds
-[01:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:45:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:45:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:45:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:19:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:19:55] [ServerMain/INFO]: Loaded 1370 recipes
+[19:19:55] [ServerMain/INFO]: Loaded 1481 advancements
+[19:19:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[19:19:56] [Server thread/INFO]: Loading properties
+[19:19:56] [Server thread/INFO]: Default game type: SURVIVAL
+[19:19:56] [Server thread/INFO]: Generating keypair
+[19:19:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:19:56] [Server thread/INFO]: Using default channel type
+[19:19:56] [Server thread/INFO]: Preparing level "world"
+[19:19:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:19:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:19:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:19:57] [Server thread/INFO]: Time elapsed: 916 ms
+[19:19:57] [Server thread/INFO]: Done (1.100s)! For help, type "help"
+[19:20:53] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[19:20:53] [Server thread/INFO]: AMeiKun[/127.0.0.1:54194] logged in with entity id 22 at (-87.52376759862676, 64.0, -796.9036911378312)
+[19:20:53] [Server thread/INFO]: AMeiKun joined the game
+[19:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8375ms or 167 ticks behind
+[19:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[19:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[19:42:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[20:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[20:45:06] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[20:45:06] [Server thread/INFO]: AMeiKun left the game
+[20:45:12] [Server thread/INFO]: Stopping server
+[20:45:12] [Server thread/INFO]: Saving players
+[20:45:12] [Server thread/INFO]: Saving worlds
+[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
