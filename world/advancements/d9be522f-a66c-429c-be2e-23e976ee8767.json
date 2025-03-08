@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-03-01 22:21:22 -0800",
+      "minecraft:snowy_slopes": "2025-03-07 23:59:01 -0800",
       "minecraft:forest": "2025-01-31 19:05:41 -0800",
       "minecraft:taiga": "2025-02-22 23:30:42 -0800",
       "minecraft:river": "2025-01-31 19:17:38 -0800",
@@ -17,6 +18,7 @@
       "minecraft:snowy_taiga": "2025-02-22 23:30:50 -0800",
       "minecraft:ice_spikes": "2025-02-09 19:41:19 -0800",
       "minecraft:frozen_river": "2025-02-09 19:42:54 -0800",
+      "minecraft:deep_dark": "2025-03-08 00:07:28 -0800",
       "minecraft:cherry_grove": "2025-01-31 19:46:09 -0800",
       "minecraft:sunflower_plains": "2025-02-22 23:57:55 -0800",
       "minecraft:grove": "2025-02-22 23:01:44 -0800",
@@ -2950,39 +2952,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/observer": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "has_quartz": "2025-03-01 23:16:35 -0800"
+      "has_logs": "2025-03-01 21:50:50 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/comparator": {
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
-      "has_quartz": "2025-03-01 23:16:35 -0800"
+      "has_log": "2025-03-01 21:50:50 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
+      "has_glowstone_dust": "2025-03-01 22:04:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-01 22:04:21 -0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-03-01 22:25:29 -0800"
     },
     "done": true
   },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-03-01 22:58:39 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-03-02 00:17:02 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
     },
     "done": true
   },
@@ -3001,18 +3003,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/pale_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
     },
     "done": true
   },
@@ -3046,24 +3036,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-03-02 00:47:00 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
     "criteria": {
       "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
@@ -3076,33 +3048,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-03-02 00:47:00 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-03-01 21:50:50 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-02 01:09:59 -0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-01 22:04:21 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-01 23:16:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-01 23:16:35 -0800"
     },
     "done": true
   },
@@ -3112,27 +3090,87 @@
     },
     "done": true
   },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2025-03-01 22:25:29 -0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-01 23:16:35 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_chest_boat": {
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-01 23:16:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-01 23:16:35 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-03-02 00:17:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-02 00:47:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-02 00:47:00 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-03-02 01:09:59 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
-      "has_glowstone_dust": "2025-03-01 22:04:21 -0800"
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-02 01:09:59 -0800"
     },
     "done": true
   },
@@ -3148,39 +3186,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+      "has_stone": "2025-03-08 00:37:43 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_log": "2025-03-01 21:50:50 -0800"
+      "has_stone": "2025-03-08 00:37:43 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_quartz": "2025-03-01 23:16:35 -0800"
+      "has_stone": "2025-03-08 00:37:43 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+      "kill_mob_near_sculk_catalyst": "2025-03-08 01:00:54 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_quartz": "2025-03-01 23:16:35 -0800"
+      "has_stone": "2025-03-08 00:37:43 -0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2025-03-01 23:13:49 -0800"
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-08 00:14:55 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-08 00:37:43 -0800"
     },
     "done": true
   },

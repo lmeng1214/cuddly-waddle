@@ -1,37 +1,90 @@
-[19:19:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:19:55] [ServerMain/INFO]: Loaded 1370 recipes
-[19:19:55] [ServerMain/INFO]: Loaded 1481 advancements
-[19:19:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:19:56] [Server thread/INFO]: Loading properties
-[19:19:56] [Server thread/INFO]: Default game type: SURVIVAL
-[19:19:56] [Server thread/INFO]: Generating keypair
-[19:19:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:19:56] [Server thread/INFO]: Using default channel type
-[19:19:56] [Server thread/INFO]: Preparing level "world"
-[19:19:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:19:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:19:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:19:57] [Server thread/INFO]: Time elapsed: 916 ms
-[19:19:57] [Server thread/INFO]: Done (1.100s)! For help, type "help"
-[19:20:53] [User Authenticator #1/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[19:20:53] [Server thread/INFO]: AMeiKun[/127.0.0.1:54194] logged in with entity id 22 at (-87.52376759862676, 64.0, -796.9036911378312)
-[19:20:53] [Server thread/INFO]: AMeiKun joined the game
-[19:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[19:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8375ms or 167 ticks behind
-[19:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
-[19:23:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
-[19:42:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[20:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[20:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
-[20:45:06] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[20:45:06] [Server thread/INFO]: AMeiKun left the game
-[20:45:12] [Server thread/INFO]: Stopping server
-[20:45:12] [Server thread/INFO]: Saving players
-[20:45:12] [Server thread/INFO]: Saving worlds
-[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:45:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:45:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:11:28] [Server thread/INFO]: [Zuvona_: The difficulty has been set to Hard]
+[00:14:50] [Server thread/INFO]: Zuvona_ has made the advancement [Sneak 100]
+[00:14:55] [Server thread/INFO]: GhostOarfish has made the advancement [Sneak 100]
+[00:16:20] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[00:16:38] [Server thread/INFO]: AMeiKun was slain by Warden
+[00:16:48] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:17:26] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:18:48] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:24:52] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:25:24] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:25:58] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:26:29] [Server thread/INFO]: GhostOarfish went off with a bang
+[00:27:00] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[00:27:02] [Server thread/INFO]: AMeiKun has made the advancement [Sneak 100]
+[00:28:57] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:29:03] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:29:05] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:29:08] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:29:12] [Server thread/INFO]: AMeiKun was slain by Warden
+[00:29:15] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:29:46] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[00:29:48] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:36:22] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:36:47] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:37:16] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:38:36] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:38:55] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:41:45] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[00:43:39] [Server thread/INFO]: <Zuvona_> -1041 -9 54
+[00:49:18] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:51:46] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:52:09] [Server thread/INFO]: GhostOarfish was slain by Warden
+[00:55:59] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[00:56:21] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[00:59:51] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[01:00:35] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[01:00:54] [Server thread/INFO]: GhostOarfish has completed the challenge [It Spreads]
+[01:01:25] [Server thread/INFO]: AMeiKun was slain by Warden
+[01:01:26] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[01:01:47] [Server thread/INFO]: GhostOarfish was shot by Skeleton
+[01:02:56] [Server thread/INFO]: AMeiKun was slain by Warden
+[01:03:17] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[01:04:15] [Server thread/INFO]: GhostOarfish was obliterated by a sonically-charged shriek
+[01:04:45] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
+[01:04:45] [Server thread/INFO]: GhostOarfish left the game
+[01:05:36] [Server thread/INFO]: AMeiKun was obliterated by a sonically-charged shriek
+[01:06:00] [Server thread/INFO]: <Zuvona_> -1311, -49, 190
+[01:07:40] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[01:07:40] [Server thread/INFO]: Zuvona_ left the game
+[01:08:00] [User Authenticator #9/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[01:08:01] [Server thread/INFO]: Zuvona_[/172.249.85.74:49924] logged in with entity id 115915 at (-1387.3509658227197, -40.0, 123.23526806052074)
+[01:08:01] [Server thread/INFO]: Zuvona_ joined the game
+[01:08:02] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[01:08:02] [Server thread/INFO]: Zuvona_ left the game
+[01:08:08] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[01:08:08] [Server thread/INFO]: AMeiKun left the game
+[01:08:10] [User Authenticator #10/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[01:08:10] [Server thread/INFO]: Zuvona_[/172.249.85.74:49931] logged in with entity id 116207 at (-1387.3509658227197, -40.0, 123.23526806052074)
+[01:08:10] [Server thread/INFO]: Zuvona_ joined the game
+[01:08:17] [User Authenticator #11/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[01:08:17] [Server thread/INFO]: AMeiKun[/108.208.120.244:49589] logged in with entity id 117249 at (-1050.0468181073416, -13.0, 43.64484886387895)
+[01:08:17] [Server thread/INFO]: AMeiKun joined the game
+[01:08:36] [Server thread/INFO]: <Zuvona_> -1406 -52 99
+[01:08:55] [Server thread/INFO]: <AMeiKun> w
+[01:09:02] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[01:15:46] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[01:16:10] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[01:16:10] [Server thread/INFO]: AMeiKun left the game
+[01:16:15] [User Authenticator #12/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[01:16:15] [Server thread/INFO]: AMeiKun[/108.208.120.244:49621] logged in with entity id 119984 at (-1297.064359484768, -50.0, 187.0445132236599)
+[01:16:15] [Server thread/INFO]: AMeiKun joined the game
+[01:18:31] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[01:21:59] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[01:24:46] [Server thread/INFO]: Zuvona_ was obliterated by a sonically-charged shriek
+[01:25:43] [Server thread/INFO]: AMeiKun was slain by Warden
+[01:27:46] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[01:27:46] [Server thread/INFO]: Zuvona_ left the game
+[01:27:48] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[01:27:48] [Server thread/INFO]: AMeiKun left the game
+[01:27:58] [Server thread/INFO]: Stopping the server
+[01:27:58] [Server thread/INFO]: Stopping server
+[01:27:58] [Server thread/INFO]: Saving players
+[01:27:58] [Server thread/INFO]: Saving worlds
+[01:27:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:27:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:27:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:27:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:27:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:27:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:27:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

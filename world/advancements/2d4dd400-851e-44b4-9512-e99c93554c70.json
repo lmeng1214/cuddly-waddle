@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-01-14 22:14:55 -0800",
+      "minecraft:snowy_slopes": "2025-03-07 23:59:26 -0800",
       "minecraft:forest": "2025-01-04 15:40:41 -0800",
       "minecraft:taiga": "2025-01-04 19:17:38 -0800",
       "minecraft:deep_ocean": "2025-01-14 22:10:33 -0800",
@@ -31,6 +32,7 @@
       "minecraft:dripstone_caves": "2025-01-04 16:55:25 -0800",
       "minecraft:snowy_taiga": "2025-01-04 18:26:46 -0800",
       "minecraft:old_growth_birch_forest": "2025-01-04 19:18:08 -0800",
+      "minecraft:deep_dark": "2025-03-08 00:07:24 -0800",
       "minecraft:grove": "2025-02-22 23:01:41 -0800",
       "minecraft:meadow": "2025-01-04 16:56:11 -0800",
       "minecraft:savanna": "2025-01-06 21:10:25 -0800",
@@ -838,6 +840,7 @@
       "mutton": "2025-01-05 19:43:49 -0800",
       "chicken": "2025-01-04 17:17:36 -0800",
       "bread": "2025-01-06 21:08:33 -0800",
+      "golden_apple": "2025-03-08 00:50:04 -0800",
       "honey_bottle": "2025-02-06 21:05:47 -0800",
       "rotten_flesh": "2025-01-04 17:21:15 -0800",
       "cookie": "2025-01-19 21:25:44 -0800",
@@ -4301,6 +4304,42 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-03-01 22:37:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-07 23:47:30 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-03-08 00:21:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-03-08 00:21:34 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-08 00:21:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-03-08 00:21:43 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-08 00:27:02 -0800"
     },
     "done": true
   },
