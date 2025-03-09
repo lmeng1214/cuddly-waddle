@@ -818,6 +818,7 @@
       "minecraft:spider": "2025-01-04 19:24:21 -0800",
       "minecraft:zombie": "2025-01-04 17:05:56 -0800",
       "minecraft:creeper": "2025-01-06 21:01:08 -0800",
+      "minecraft:drowned": "2025-03-08 20:34:34 -0800",
       "minecraft:zombie_villager": "2025-01-06 20:58:31 -0800"
     },
     "done": false
@@ -4340,6 +4341,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-03-08 00:27:02 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-03-08 20:59:18 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-03-08 21:21:54 -0800"
     },
     "done": true
   },
