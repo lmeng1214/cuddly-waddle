@@ -1,37 +1,51 @@
-[00:14:24] [Server thread/INFO]: GhostOarfish fell from a high place
-[00:24:15] [Server thread/INFO]: GhostOarfish fell off a ladder
-[01:05:55] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[01:05:55] [Server thread/INFO]: GhostOarfish left the game
-[01:06:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[02:11:59] [Server thread/INFO]: intersect (/156.253.227.129:46396) lost connection: Disconnected
-[02:19:40] [Server thread/INFO]: intersect (/156.253.227.129:36060) lost connection: Disconnected
-[02:49:54] [Server thread/INFO]: intersect (/156.253.227.129:55890) lost connection: Disconnected
-[02:58:05] [Server thread/INFO]: intersect (/156.253.227.129:33412) lost connection: Disconnected
-[02:59:53] [Server thread/INFO]: intersect (/156.253.227.129:60938) lost connection: Disconnected
-[03:00:44] [Server thread/INFO]: intersect (/156.253.227.129:60864) lost connection: Disconnected
-[03:13:23] [Server thread/INFO]: intersect (/156.253.227.129:54558) lost connection: Disconnected
-[03:25:53] [Server thread/INFO]: intersect (/156.253.227.129:34088) lost connection: Disconnected
-[03:36:52] [Server thread/INFO]: intersect (/156.253.227.129:47760) lost connection: Disconnected
-[03:50:12] [Server thread/INFO]: intersect (/156.253.227.129:57704) lost connection: Disconnected
-[04:43:07] [User Authenticator #8/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
-[04:43:08] [Server thread/INFO]: GhostOarfish[/159.197.211.7:51115] logged in with entity id 102688 at (-273.2744087461058, 163.0, -903.128999127837)
-[04:43:08] [Server thread/INFO]: GhostOarfish joined the game
-[04:44:02] [Server thread/INFO]: GhostOarfish fell from a high place
-[05:18:44] [Server thread/INFO]: GhostOarfish tried to swim in lava
-[06:06:35] [Server thread/INFO]: GhostOarfish has made the advancement [Who is Cutting Onions?]
-[06:48:36] [Server thread/INFO]: GhostOarfish lost connection: Disconnected
-[06:48:36] [Server thread/INFO]: GhostOarfish left the game
-[06:49:36] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[09:44:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[09:44:16] [Server thread/INFO]:  stop<--[HERE]
-[09:44:19] [Server thread/INFO]: Stopping the server
-[09:44:19] [Server thread/INFO]: Stopping server
-[09:44:19] [Server thread/INFO]: Saving players
-[09:44:19] [Server thread/INFO]: Saving worlds
-[09:44:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:44:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:44:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:44:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:44:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:44:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:44:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:51:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:51:53] [ServerMain/INFO]: Loaded 1370 recipes
+[20:51:53] [ServerMain/INFO]: Loaded 1481 advancements
+[20:51:53] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:51:53] [Server thread/INFO]: Loading properties
+[20:51:53] [Server thread/INFO]: Default game type: SURVIVAL
+[20:51:53] [Server thread/INFO]: Generating keypair
+[20:51:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:51:53] [Server thread/INFO]: Using default channel type
+[20:51:53] [Server thread/INFO]: Preparing level "world"
+[20:51:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:51:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:51:54] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[20:51:54] [Server thread/INFO]: Time elapsed: 770 ms
+[20:51:54] [Server thread/INFO]: Done (0.991s)! For help, type "help"
+[20:52:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:54:04] [User Authenticator #1/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[20:54:04] [Server thread/INFO]: Zuvona_[/172.249.85.74:56028] logged in with entity id 15 at (-1536.7760711538251, 103.0, -977.4622640541103)
+[20:54:04] [Server thread/INFO]: Zuvona_ joined the game
+[20:58:33] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[20:58:33] [Server thread/INFO]: Zuvona_ left the game
+[20:59:00] [User Authenticator #2/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[20:59:00] [Server thread/INFO]: Zuvona_[/172.249.85.74:56371] logged in with entity id 2491 at (-1068.900405060586, 147.0, -883.9164354081765)
+[20:59:00] [Server thread/INFO]: Zuvona_ joined the game
+[21:02:05] [User Authenticator #3/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[21:02:05] [Server thread/INFO]: AMeiKun[/108.208.120.244:50267] logged in with entity id 5617 at (-1535.9266396910305, 103.0, -982.1100441554792)
+[21:02:05] [Server thread/INFO]: AMeiKun joined the game
+[21:02:09] [Server thread/INFO]: <Zuvona_> heyo
+[21:02:12] [Server thread/INFO]: <AMeiKun> yoo
+[21:02:57] [Server thread/INFO]: Villager coj['Villager'/5693, l='ServerLevel[world]', x=-1551.50, y=87.28, z=-1046.30] died, message: 'Villager froze to death'
+[21:02:59] [Server thread/INFO]: Villager coj['Villager'/5655, l='ServerLevel[world]', x=-1516.70, y=92.00, z=-1037.50] died, message: 'Villager froze to death'
+[21:03:09] [Server thread/INFO]: Villager coj['Cleric'/5670, l='ServerLevel[world]', x=-1549.33, y=87.00, z=-1045.70] died, message: 'Cleric froze to death'
+[21:05:24] [Server thread/INFO]: AMeiKun tried to swim in lava
+[21:12:56] [Server thread/INFO]: <Zuvona_> Rust
+[21:38:10] [Server thread/INFO]: AMeiKun fell from a high place
+[22:39:23] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[22:39:23] [Server thread/INFO]: AMeiKun left the game
+[22:39:24] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[22:39:24] [Server thread/INFO]: Zuvona_ left the game
+[22:40:24] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[22:41:19] [Server thread/INFO]: Stopping the server
+[22:41:19] [Server thread/INFO]: Stopping server
+[22:41:19] [Server thread/INFO]: Saving players
+[22:41:19] [Server thread/INFO]: Saving worlds
+[22:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:41:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:41:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
