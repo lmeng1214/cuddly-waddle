@@ -1,58 +1,50 @@
-[19:34:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:34:48] [ServerMain/INFO]: Loaded 1370 recipes
-[19:34:48] [ServerMain/INFO]: Loaded 1481 advancements
-[19:34:49] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[19:34:49] [Server thread/INFO]: Loading properties
-[19:34:49] [Server thread/INFO]: Default game type: SURVIVAL
-[19:34:49] [Server thread/INFO]: Generating keypair
-[19:34:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:34:49] [Server thread/INFO]: Using default channel type
-[19:34:49] [Server thread/INFO]: Preparing level "world"
-[19:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:34:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:34:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:34:50] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:34:50] [Server thread/INFO]: Time elapsed: 1045 ms
-[19:34:50] [Server thread/INFO]: Done (1.193s)! For help, type "help"
-[19:35:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[20:02:31] [User Authenticator #1/INFO]: UUID of player GhostOarfish is d9be522f-a66c-429c-be2e-23e976ee8767
-[20:02:32] [Server thread/INFO]: GhostOarfish[/100.68.92.13:49365] logged in with entity id 15 at (-72.9891677577945, 11.0, -46.40634097411548)
-[20:02:32] [Server thread/INFO]: GhostOarfish joined the game
-[20:12:21] [Server thread/INFO]: GhostOarfish was doomed to fall
-[20:12:38] [Server thread/WARN]: GhostOarfish moved too quickly! 2.5918821873099773,0.0,9.774801688063008
-[20:17:08] [User Authenticator #2/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
-[20:17:08] [Server thread/INFO]: AMeiKun[/127.0.0.1:49397] logged in with entity id 5630 at (-71.0467152622481, 70.0, -837.3936895793457)
-[20:17:08] [Server thread/INFO]: AMeiKun joined the game
-[20:17:11] [Server thread/INFO]: <GhostOarfish> hi
-[20:17:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
-[20:17:14] [Server thread/INFO]: <AMeiKun> hi
-[20:17:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6266ms or 125 ticks behind
-[20:17:47] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-23, y=65, z=-104} ji{x=-23, y=31, z=-68}
-[20:18:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10721ms or 214 ticks behind
-[20:18:07] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-23, y=31, z=-68} ji{x=-23, y=19, z=-56}
-[20:18:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13200ms or 264 ticks behind
-[20:18:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7141ms or 142 ticks behind
-[20:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
-[20:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7918ms or 158 ticks behind
-[20:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8312ms or 166 ticks behind
-[20:35:39] [Server thread/INFO]: <GhostOarfish> mao sheng hai zi le
-[20:35:43] [Server thread/INFO]: <GhostOarfish> wo xian gua ji le
-[20:35:45] [Server thread/INFO]: <AMeiKun> waaaaaaa
-[20:35:46] [Server thread/INFO]: <AMeiKun> ok
-[20:40:29] [Server thread/INFO]: Villager coj['Cartographer'/16935, l='ServerLevel[world]', x=-1550.70, y=87.00, z=-1045.50] died, message: 'Cartographer froze to death'
-[20:55:13] [Server thread/INFO]: Villager coj['Cartographer'/23939, l='ServerLevel[world]', x=-1551.50, y=87.00, z=-1046.30] died, message: 'Cartographer froze to death'
-[20:57:51] [Server thread/INFO]: Villager coj['Nitwit'/23937, l='ServerLevel[world]', x=-1514.30, y=92.00, z=-1038.50] died, message: 'Nitwit froze to death'
-[21:01:09] [Server thread/INFO]: Villager coj['Villager'/23980, l='ServerLevel[world]', x=-1549.50, y=91.39, z=-1051.70] died, message: 'Villager froze to death'
-[21:06:34] [Server thread/INFO]: Villager coj['Villager'/23856, l='ServerLevel[world]', x=-1504.70, y=90.00, z=-1048.50] died, message: 'Villager froze to death'
-[21:25:55] [Server thread/INFO]: AMeiKun lost connection: Disconnected
-[21:25:55] [Server thread/INFO]: AMeiKun left the game
-[21:26:02] [Server thread/INFO]: Stopping server
-[21:26:02] [Server thread/INFO]: Saving players
-[21:26:02] [Server thread/INFO]: Saving worlds
-[21:26:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:26:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:26:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:49:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:49:46] [ServerMain/INFO]: Loaded 1370 recipes
+[21:49:46] [ServerMain/INFO]: Loaded 1481 advancements
+[21:49:46] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:49:46] [Server thread/INFO]: Loading properties
+[21:49:46] [Server thread/INFO]: Default game type: SURVIVAL
+[21:49:46] [Server thread/INFO]: Generating keypair
+[21:49:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:49:46] [Server thread/INFO]: Using default channel type
+[21:49:46] [Server thread/INFO]: Preparing level "world"
+[21:49:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:47] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:47] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[21:49:47] [Server thread/INFO]: Time elapsed: 689 ms
+[21:49:47] [Server thread/INFO]: Done (0.920s)! For help, type "help"
+[21:50:08] [User Authenticator #1/INFO]: UUID of player Zuvona_ is 4402cc12-b124-41c9-8536-747acdd1684d
+[21:50:09] [Server thread/INFO]: Zuvona_[/172.249.85.74:58780] logged in with entity id 15 at (-139.94197871398313, 138.0, -886.4563130538538)
+[21:50:09] [Server thread/INFO]: Zuvona_ joined the game
+[22:00:08] [User Authenticator #2/INFO]: UUID of player AMeiKun is 2d4dd400-851e-44b4-9512-e99c93554c70
+[22:00:08] [Server thread/INFO]: AMeiKun[/108.208.120.244:50510] logged in with entity id 4160 at (-1536.5, 103.0, -984.5)
+[22:00:08] [Server thread/INFO]: AMeiKun joined the game
+[22:50:40] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-71, y=14, z=-128} ji{x=-72, y=12, z=-129}
+[22:54:27] [Server thread/INFO]: AMeiKun burned to death
+[23:00:38] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-35, y=15, z=-137} ji{x=-51, y=15, z=-130}
+[23:02:37] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-49, y=11, z=-133} ji{x=-51, y=14, z=-108}
+[23:03:14] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-42, y=13, z=-149} ji{x=-33, y=14, z=-149}
+[23:04:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-70, y=16, z=-143} ji{x=-70, y=15, z=-142}
+[23:04:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-70, y=16, z=-143} ji{x=-70, y=14, z=-143}
+[23:04:08] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-70, y=16, z=-143} ji{x=-70, y=14, z=-143}
+[23:04:51] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-70, y=16, z=-143} ji{x=-72, y=16, z=-149}
+[23:09:46] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-76, y=14, z=-177} ji{x=-97, y=13, z=-179}
+[23:18:13] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-60, y=15, z=-128} ji{x=-60, y=14, z=-126}
+[23:24:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-51, y=10, z=-45} ji{x=-51, y=11, z=-46}
+[23:24:31] [Server thread/WARN]: Mismatch in destroy block pos: ji{x=-51, y=10, z=-45} ji{x=-51, y=11, z=-46}
+[23:25:24] [Server thread/INFO]: AMeiKun has made the advancement [Hidden in the Depths]
+[23:33:02] [Server thread/INFO]: Zuvona_ lost connection: Disconnected
+[23:33:02] [Server thread/INFO]: Zuvona_ left the game
+[23:33:04] [Server thread/INFO]: AMeiKun lost connection: Disconnected
+[23:33:04] [Server thread/INFO]: AMeiKun left the game
+[23:33:11] [Server thread/INFO]: Stopping the server
+[23:33:11] [Server thread/INFO]: Stopping server
+[23:33:11] [Server thread/INFO]: Saving players
+[23:33:11] [Server thread/INFO]: Saving worlds
+[23:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:33:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:33:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
